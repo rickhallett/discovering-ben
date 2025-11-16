@@ -44,9 +44,68 @@ How do Benjamin's autism traits interact with LLM response patterns to create vi
 
 **Critical insight:** RLHF-optimized compliance creates these problems, not Benjamin's autism alone.
 
+## Analysis Pipeline Framework
+
+### Repeatable Analysis System
+
+The `analysis_pipeline/` directory contains a programmatic framework for repeating analyses on new data exports. This captures the macro, meso, and micro cycles of LLM-assisted analysis:
+
+- **Macro Level**: Analysis waves (exploratory → deep dive → synthesis)
+- **Meso Level**: Individual analyzers (temporal, semantic, synthesis)
+- **Micro Level**: Claude API/CLI calls with specific prompts
+
+### Quick Start
+
+```bash
+cd analysis_pipeline
+
+# Run complete pipeline on new data export
+python3 orchestrator.py \
+  --config config/pipeline_config.yaml \
+  --data-dir /path/to/new/export \
+  --output-dir ./results_YYYY_MM_DD
+
+# Run specific wave
+python3 orchestrator.py --wave 1  # Exploratory (quantitative, $0)
+python3 orchestrator.py --wave 2  # Deep dive (Claude API, ~$2-5)
+python3 orchestrator.py --wave 3  # Synthesis (Claude CLI, ~$0.50)
+
+# View execution plan
+python3 orchestrator.py --dry-run
+```
+
+### Features
+
+- **Automatic parallelization** - Concurrent execution within waves
+- **Result caching** - Skip re-running expensive analyses
+- **Cost control** - Configurable batch sizes and model selection
+- **Standardized output** - Consistent JSON format across analyzers
+- **Migrable scripts** - Convert existing analysis scripts to framework
+
+### Documentation
+
+- `analysis_pipeline/README.md` - Architecture and concepts
+- `analysis_pipeline/QUICKSTART.md` - Getting started guide
+- `analysis_pipeline/MIGRATION_GUIDE.md` - Converting existing scripts
+- `PIPELINE_SUMMARY.md` - Complete implementation overview
+
+### Cost & Performance
+
+Typical full pipeline run:
+- **Time**: 3-8 minutes
+- **Cost**: $2.50-5.50 (265 conversations)
+- **Waves**: 3 (exploratory, deep dive, synthesis)
+- **Analyzers**: 7 (quantitative + Claude API + Claude CLI)
+
 ## Repository Structure
 
 ```
+├── analysis_pipeline/  # Programmatic analysis framework (new!)
+│   ├── orchestrator.py        # Main pipeline coordinator
+│   ├── analyzers/             # Analyzer implementations
+│   ├── config/                # Wave and analyzer definitions
+│   ├── utils/                 # Claude API/CLI interfaces
+│   └── *.md                   # Documentation (README, QUICKSTART, MIGRATION_GUIDE)
 ├── data/              # Datasets (raw and processed)
 ├── analysis/          # Research waves
 ├── system-prompts/    # Deployable interventions

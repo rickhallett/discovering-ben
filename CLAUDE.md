@@ -197,6 +197,59 @@ The overarching research questions:
 
 Keep these questions in mind when developing new analyses.
 
+## Analysis Pipeline Framework
+
+### Repeatable Analysis System
+
+The `analysis_pipeline/` directory contains a framework for programmatically repeating analyses on new data exports. This captures the macro, meso, and micro cycles of analysis:
+
+- **Macro Level**: Analysis waves (exploratory → deep dive → synthesis)
+- **Meso Level**: Individual analyzers (temporal, semantic, synthesis)
+- **Micro Level**: Claude API/CLI calls with specific prompts
+
+### Running the Pipeline
+
+```bash
+# Full pipeline on new data export
+cd analysis_pipeline
+python3 orchestrator.py \
+  --config config/pipeline_config.yaml \
+  --data-dir /path/to/new/export \
+  --output-dir ./results_YYYY_MM_DD
+
+# Run specific wave
+python3 orchestrator.py --wave 1  # Exploratory (quantitative)
+python3 orchestrator.py --wave 2  # Deep dive (Claude API)
+python3 orchestrator.py --wave 3  # Synthesis (Claude CLI)
+
+# Dry run (show execution plan)
+python3 orchestrator.py --dry-run
+```
+
+### Key Files
+
+- `orchestrator.py` - Main pipeline runner, coordinates wave execution
+- `config/pipeline_config.yaml` - Defines waves and analyzers
+- `config/prompts/*.txt` - Claude prompt templates
+- `analyzers/base_analyzer.py` - Base classes for all analyzers
+- `utils/claude_interface.py` - Unified Claude API/CLI interface
+
+### Documentation
+
+- `analysis_pipeline/README.md` - Architecture and concepts
+- `analysis_pipeline/QUICKSTART.md` - Getting started guide
+- `analysis_pipeline/MIGRATION_GUIDE.md` - Converting existing scripts
+
+### Adding New Analyses
+
+1. Create analyzer inheriting from `BaseAnalyzer`
+2. Add to `config/pipeline_config.yaml`
+3. Create prompt template if using Claude
+4. Test standalone: `python3 analyzers/my_analyzer.py --input data.json --output result.json`
+5. Test in pipeline: `python3 orchestrator.py --wave N`
+
+See `MIGRATION_GUIDE.md` for detailed examples.
+
 ## Git Commit Messages
 
 Do not include Claude as an author or collaborator in git commit messages. This is human research work assisted by AI tools.
