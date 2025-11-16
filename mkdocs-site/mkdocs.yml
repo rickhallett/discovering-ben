@@ -1,0 +1,261 @@
+# Site Information
+site_name: "Discovering Ben: Autism-LLM Interaction Patterns"
+site_description: "A 16-month longitudinal study revealing how LLM helpfulness creates systematic harm for autistic users through vicious reinforcement cycles. Research proves 60-70% of AI interaction problems stem from AI response patterns, not user characteristics."
+site_author: "Richard Hallett & Family"
+site_url: "https://discovering-ben.org"
+
+# Repository
+repo_name: "discovering-ben"
+repo_url: "https://github.com/richardhallett/discovering-ben"
+edit_uri: "edit/main/mkdocs-site/docs/"
+
+# Copyright
+copyright: "Copyright &copy; 2024-2025 Richard Hallett. Research conducted with informed consent. All conversation data anonymized."
+
+# Theme Configuration
+theme:
+  name: material
+
+  # Color Palette - Light/Dark Mode Toggle
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  # Typography
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  # Logo and Icons
+  icon:
+    logo: material/brain
+    repo: fontawesome/brands/github
+
+  # Features
+  features:
+    # Navigation
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+
+    # Table of Contents
+    - toc.follow
+    - toc.integrate
+
+    # Search
+    - search.suggest
+    - search.highlight
+    - search.share
+
+    # Content
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - content.tooltips
+
+    # Header
+    - header.autohide
+
+    # Announce
+    - announce.dismiss
+
+# Markdown Extensions
+markdown_extensions:
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: richardhallett
+      repo: discovering-ben
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  # Standard Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      permalink_title: Anchor link to this section
+      toc_depth: 3
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      lang:
+        - en
+  - tags:
+      tags_file: resources/tags.md
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
+
+# Extra Configuration
+extra:
+  # Analytics (placeholder - add your tracking ID)
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
+          note: Thanks for your feedback! Help us improve by using our feedback form.
+
+  # Social Links
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/richardhallett/discovering-ben
+      name: GitHub Repository
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/discoveringben
+      name: Twitter/X
+
+  # Version
+  version:
+    provider: mike
+    default: latest
+
+  # Consent (for GDPR compliance)
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - reject
+      - manage
+
+# Extra CSS
+extra_css:
+  - stylesheets/extra.css
+
+# Extra JavaScript
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# Navigation Structure
+nav:
+  - Home: index.md
+
+  - About This Research:
+      - Research Question: overview/research-question.md
+      - Key Findings: overview/key-findings.md
+      - Methodology:
+          - Overview: methodology/overview.md
+          - Data Collection: methodology/data-collection.md
+          - Two-Stage Detection: methodology/two-stage-detection.md
+      - Background:
+          - Understanding Autism: background/autism-traits.md
+          - LLM Behavior Patterns: background/llm-behavior-patterns.md
+
+  - Start Here:
+      - For Autistic Individuals: overview/for-autistic-individuals.md
+      - For Researchers: overview/for-researchers.md
+      - For Clinicians: overview/for-clinicians.md
+      - For LLM Developers: overview/for-llm-developers.md
+
+  - The Vicious Cycles:
+      - Understanding the Patterns: cycles/overview.md
+      - "Cycle 1: Information Overload": cycles/cycle-1-information-overload.md
+      - "Cycle 2: The One Best Thing Paradox": cycles/cycle-2-one-best-thing.md
+      - "Cycle 3: Perfectionism Spiral": cycles/cycle-3-perfectionism.md
+      - "Cycle 4: Emotional Dysregulation": cycles/cycle-4-emotional-dysregulation.md
+
+  - Other Patterns:
+      - "Cycle 5: Mind Reading Expectations": cycles/cycle-5-mind-reading.md
+      - "Cycle 7: Special Interest Engagement": cycles/cycle-7-special-interests.md
+
+  - Real-World Examples:
+      - Information Overload in Practice: case-studies/information-overload-example.md
+      - Perfectionism That Worked: case-studies/perfectionism-spiral-example.md
+      - Successful Intervention: case-studies/successful-intervention-example.md
+      - When Traits Are Healthy: case-studies/natural-trait-example.md
+
+  - Implications & Applications:
+      - For Clinical Practice: implications/for-clinical-practice.md
+      - For LLM Design: implications/for-llm-design.md
+      - For Accessibility: implications/for-accessibility.md
+
+  - Interventions:
+      - Overview: interventions/overview.md
+      - System Prompt Approach: interventions/system-prompt-approach.md
+
+  - Resources:
+      - Glossary: resources/glossary.md
+      - Appendices:
+          - Dataset Statistics: appendices/dataset-statistics.md
+          - Pattern Definitions: appendices/pattern-definitions.md
+
+# Validation
+strict: true
+
+# Watch (for development)
+watch:
+  - includes
+  - overrides
