@@ -196,3 +196,7 @@ The overarching research questions:
 5. What makes AI effective as an accessibility tool?
 
 Keep these questions in mind when developing new analyses.
+
+## Git Commit Messages
+
+Do not include Claude as an author or collaborator in git commit messages. This is human research work assisted by AI tools.
