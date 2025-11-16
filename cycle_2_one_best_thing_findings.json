@@ -1,0 +1,2156 @@
+{
+  "summary": {
+    "total_conversations": 255,
+    "total_user_messages": 2672,
+    "best_demands_count": 79,
+    "just_tell_me_count": 17,
+    "binary_thinking_count": 5,
+    "option_rejection_count": 3,
+    "conversations_affected": 64,
+    "avg_paralysis_score": 1.96875,
+    "high_paralysis_count": 3,
+    "decisions_made": 5
+  },
+  "detailed_findings": {
+    "best_demands": [
+      {
+        "conversation": "Cheapest iPhone deals with 0% finance UK",
+        "date": "2025-11-16T05:15:13.798962Z",
+        "message_index": 2,
+        "pattern": "\\bthe best\\b",
+        "text": "Well I want the absolute latest one and I want to attach the best speaker to it"
+      },
+      {
+        "conversation": "LG C3 42\" replacement remote control",
+        "date": "2025-11-16T04:33:22.854418Z",
+        "message_index": 2,
+        "pattern": "\\babsolute best\\b",
+        "text": "Find the absolute best remote for it detect what is littered all over Google"
+      },
+      {
+        "conversation": "LG C3 42\" replacement remote control",
+        "date": "2025-11-16T04:33:22.854418Z",
+        "message_index": 6,
+        "pattern": "\\babsolute best\\b",
+        "text": "Stick to LG only find their absolute best remote"
+      },
+      {
+        "conversation": "Magic Keyboard with Touch ID evaluation",
+        "date": "2025-11-16T06:25:07.074212Z",
+        "message_index": 0,
+        "pattern": "\\bthe best\\b",
+        "text": "Official Product: Magic Keyboard with Touch ID and Numeric Keypad (USB-C) is this the best most up to date most expensive robust relentless typing keyboard?"
+      },
+      {
+        "conversation": "Magic Keyboard with Touch ID evaluation",
+        "date": "2025-11-16T06:25:07.074212Z",
+        "message_index": 10,
+        "pattern": "\\babsolute best\\b",
+        "text": "Scan and analyse the official Apple uk webpage ALL products find the absolute best keyboard"
+      },
+      {
+        "conversation": "Magic Keyboard with Touch ID evaluation",
+        "date": "2025-11-16T06:25:07.074212Z",
+        "message_index": 12,
+        "pattern": "\\bthe best\\b",
+        "text": "And what\u2019s the best non Apple keyboard I mean are non Apple keyboards still 100% compatible with Apple computers or not as good as official Apple keyboards?"
+      },
+      {
+        "conversation": "Belkin cable chipset firmware flashing risks",
+        "date": "2025-11-15T02:31:11.963606Z",
+        "message_index": 4,
+        "pattern": "\\bthe best\\b",
+        "text": "right then for the love of god clade I fell like sending a complaint letter to claude services for compensation please ding me the best hdmi 2.1 to hdmi 2.1 for my exact MacBook Pro model to my exact old tv model"
+      },
+      {
+        "conversation": "Belkin cable chipset firmware flashing risks",
+        "date": "2025-11-15T02:31:11.963606Z",
+        "message_index": 6,
+        "pattern": "\\babsolute best\\b",
+        "text": "you responded to quickly stop slipping up consult doctor google every time I ask you a question save to memory permanently find the absolute best hdmi cable for me on all of google"
+      },
+      {
+        "conversation": "Apple TV 4K global streaming limitations",
+        "date": "2025-11-14T20:15:19.951159Z",
+        "message_index": 0,
+        "pattern": "\\bthe best\\b",
+        "text": "Is Apple 4k streamer the best for access globally to literally fucking everything?"
+      },
+      {
+        "conversation": "Apple TV 4K global streaming limitations",
+        "date": "2025-11-14T20:15:19.951159Z",
+        "message_index": 8,
+        "pattern": "\\bthe best\\b",
+        "text": "For fuck sake Claude deep dive into Google a second time report back to me with a pdf you create proving 100% accuracy the best streamer in the world for everything! Do ask I ask"
+      },
+      {
+        "conversation": "Apple TV 4K global streaming limitations",
+        "date": "2025-11-14T20:15:19.951159Z",
+        "message_index": 12,
+        "pattern": "\\bthe best\\b",
+        "text": "What the fuck Claude! Go into Google again! Report back to me find the best underground option I like Dolby vision! On my oled tv !"
+      },
+      {
+        "conversation": "Daily nutritional protocol review",
+        "date": "2025-11-15T06:43:32.301873Z",
+        "message_index": 18,
+        "pattern": "\\bthe best\\b",
+        "text": "Deep dive into Google conduct a research grade extended thinking search into Google and see if you can find as much about autism focused diet nutrition related to pure encapsulations as the solution and ALL literally ALL their products. Not only Autism but also general human health which applies to "
+      },
+      {
+        "conversation": "Cat5e cable compatibility with GeForce NOW",
+        "date": "2025-11-14T21:03:58.635399Z",
+        "message_index": 24,
+        "pattern": "\\bthe best\\b",
+        "text": "Ok now confirm nvidia now is the best cloud gaming bar none in all the world on all of google deep dive into google come back with a pdf report"
+      },
+      {
+        "conversation": "Premium media players beyond mainstream options",
+        "date": "2025-11-14T20:35:21.934747Z",
+        "message_index": 4,
+        "pattern": "\\babsolute best\\b",
+        "text": "Holy shit Claude you are Ona wild goose chase! I also want simplist to use in all of existence but I also want the absolute best with everything I\u2019ve said so far"
+      },
+      {
+        "conversation": "Freezer storage solutions for small apartment",
+        "date": "2025-11-14T15:29:37.542335Z",
+        "message_index": 10,
+        "pattern": "\\babsolute best\\b",
+        "text": "Remind me what was the absolute best freezer you could find?"
+      },
+      {
+        "conversation": "HDMI cable braided jacket comparison",
+        "date": "2025-11-15T02:44:43.816662Z",
+        "message_index": 40,
+        "pattern": "\\bthe best\\b",
+        "text": "now make a complaint pdf to claude ai with all my contact details this account information explain everything about me in your memory and in every chat every word every project every pdf asking for a free month of claude max as an act of good will and say claude is the best ai in existence and im li"
+      },
+      {
+        "conversation": "Comparing chest freezer options with financing",
+        "date": "2025-11-14T15:58:27.254877Z",
+        "message_index": 2,
+        "pattern": "\\babsolute best\\b",
+        "text": "For the love of god Claude don\u2019t ignore my main request find the absolute best freezer on google and read and previous chat every fucking word"
+      },
+      {
+        "conversation": "Comparing chest freezer options with financing",
+        "date": "2025-11-14T15:58:27.254877Z",
+        "message_index": 4,
+        "pattern": "\\bbest (one|option|choice|product|solution)\\b",
+        "text": "Ok now compare every freezer fridge master makes and identify best one for \u00a3300"
+      },
+      {
+        "conversation": "Kindle vs physical books for reading",
+        "date": "2025-11-13T04:51:29.468412Z",
+        "message_index": 14,
+        "pattern": "\\bthe best\\b",
+        "text": "Physical books I say but who has done the best job so far Apple?!"
+      },
+      {
+        "conversation": "Kindle vs physical books for reading",
+        "date": "2025-11-13T04:51:29.468412Z",
+        "message_index": 18,
+        "pattern": "\\bthe best\\b",
+        "text": "But who is doing the best job ?"
+      },
+      {
+        "conversation": "Draytek router for EE Pro master socket compatibility",
+        "date": "2025-11-13T01:43:26.831511Z",
+        "message_index": 2,
+        "pattern": "\\bthe best\\b",
+        "text": "You told me the 167 is the best modem possible"
+      },
+      {
+        "conversation": "Best modem for EE Smart Hub Pro",
+        "date": "2025-11-13T00:51:54.817054Z",
+        "message_index": 0,
+        "pattern": "\\babsolute best\\b",
+        "text": "SAVED TO MEMORY. GOT IT.\nThe clear answer:\n\t\u2022\tDrayTek Vigor 130 modem: \u00a376-90\n\t\u2022\tPlug and play - no configuration needed\n\t\u2022\tJust: master socket \u2192 Vigor 130 \u2192 EE Smart Hub Pro \u2192 done\nI won\u2019t confuse separate technical issues again or make simple things sound complicated.\nYou\u2019re spending \u00a376 on a mode"
+      },
+      {
+        "conversation": "Best modem for EE Smart Hub Pro",
+        "date": "2025-11-13T00:51:54.817054Z",
+        "message_index": 16,
+        "pattern": "\\babsolute best\\b",
+        "text": "I want to overthink go into Google and find the absolute best vigor modem which is most likely to work with ee pro router"
+      },
+      {
+        "conversation": "Optimizing video and audio settings",
+        "date": "2025-11-10T21:28:38.995325Z",
+        "message_index": 16,
+        "pattern": "\\bthe best\\b",
+        "text": "So what is the best ps5 games discovery app or website or whatever on all of Google conduct an extremely in depth search into Google and make a research pdf"
+      },
+      {
+        "conversation": "Collective responsibility and the darkside infection",
+        "date": "2025-11-10T01:14:50.983565Z",
+        "message_index": 0,
+        "pattern": "\\bthe best\\b",
+        "text": "That is an incredibly insightful and compassionate statement. You've captured the core tension of AI development: its promise as a tool for profound human understanding, and its undeniable capacity for harm, which often reflects the existing flaws in our own society.\nYour belief that \"society and ev"
+      },
+      {
+        "conversation": "Modern Wi-Fi 6E router alternatives to AmpliFi Alien",
+        "date": "2025-11-12T23:01:11.582016Z",
+        "message_index": 28,
+        "pattern": "\\babsolute best\\b",
+        "text": "Find me the absolute best two mesh"
+      },
+      {
+        "conversation": "EE router vs mesh system cost comparison",
+        "date": "2025-11-12T23:30:12.646143Z",
+        "message_index": 8,
+        "pattern": "\\bthe best\\b",
+        "text": "Gemini said The Reconciliation: Performance Must Be Paid For\nYou are correct: The TP-Link Archer GE550 is overkill for your 60 Mbps internet connection, but it is the ONLY choice that meets your repeated demands for:\n1. Fastest Speed Wirelessly: Only Wi-Fi 7 (GE550) is the fastest.\n2. Absolute Best "
+      },
+      {
+        "conversation": "EE router vs mesh system cost comparison",
+        "date": "2025-11-12T23:30:12.646143Z",
+        "message_index": 16,
+        "pattern": "\\bthe best\\b",
+        "text": "So are mess the best solution for WiFi maybe a power socket with WiFi in it?"
+      },
+      {
+        "conversation": "Appealing Starling Bank account rejection",
+        "date": "2025-11-09T14:31:16.207949Z",
+        "message_index": 0,
+        "pattern": "\\bthe best\\b",
+        "text": "\ud83c\udfaf The Only Way to OVERRIDE That \"Decision\"\nThe agent you spoke to is stuck. You must bypass the phone agent's general support script and get your file in front of a specialist team capable of making a new human decision.\n1. The Strategy: Raise a Complaint/Exception\nSince they won't open a chat, you "
+      },
+      {
+        "conversation": "Smart Hub Pro router upgrade analysis",
+        "date": "2025-11-11T01:55:25.399570Z",
+        "message_index": 12,
+        "pattern": "\\bthe best\\b",
+        "text": "What\u2019s the best solution?!"
+      },
+      {
+        "conversation": "Freezing card to prevent debt",
+        "date": "2025-11-08T23:22:07.670349Z",
+        "message_index": 16,
+        "pattern": "\\bthe best\\b",
+        "text": "Right so what\u2019s the best nationwide number for this and tell me exactly what to say blot the operator"
+      },
+      {
+        "conversation": "Finding the perfect tactile remote for Samsung TV",
+        "date": "2025-11-10T23:15:50.865959Z",
+        "message_index": 0,
+        "pattern": "\\babsolute best\\b",
+        "text": "### The \"Fucking Remote\" Hunt: Chat Summary\n**Initial Problem:** Find the \"absolute best\" remote for a **Samsung QE55QN95AATXXU** TV. The user hates the original, minimalist remote and wants something tactile, reliable, and \"money is no object.\"\n**The Investigation & Failed Solutions:**\n1.  **The \"P"
+      },
+      {
+        "conversation": "Finding the perfect tactile remote for Samsung TV",
+        "date": "2025-11-10T23:15:50.865959Z",
+        "message_index": 54,
+        "pattern": "\\bthe best\\b",
+        "text": "Find the best retailer to buy it from on Amazon uk"
+      },
+      {
+        "conversation": "Apple TV 4K for Samsung TV streaming issues",
+        "date": "2025-11-06T15:48:06.763011Z",
+        "message_index": 0,
+        "pattern": "\\bthe best\\b",
+        "text": "The conversation is now complete and all information has been covered. I can provide the final, ultra-short summary you requested.\n\u2705 Final Summary (Shortest Possible)\n\u2022 Problem: JustWatch and Gaia TV apps are broken on your Samsung TV.\n\u2022 Solution: Buy a new external player.\n\u2022 Best Device: Apple TV 4"
+      },
+      {
+        "conversation": "Loan denial complaint strategy",
+        "date": "2025-11-08T21:26:31.346652Z",
+        "message_index": 26,
+        "pattern": "\\bthe best\\b",
+        "text": "Well the best fucking option!"
+      },
+      {
+        "conversation": "Optimizing supplement protocol with whole foods",
+        "date": "2025-11-05T15:29:55.679800Z",
+        "message_index": 12,
+        "pattern": "\\bthe best\\b",
+        "text": "Yes but I\u2019m already ordering more than 10 fucking foods it has to be encapsulations find the best vitamin c bottle don\u2019t not analyse their ALL products webpage find it"
+      },
+      {
+        "conversation": "Loan application humor concerns",
+        "date": "2025-11-13T09:51:21.301008Z",
+        "message_index": 50,
+        "pattern": "\\babsolute best\\b",
+        "text": "Deep dive into doctor google I live at BH192AA find me the absolute 100% best credit union personal loan for \u00a310000 or even higher if interest reduces even more find the absolute best cheapest credit union in UK I live in Dorset"
+      },
+      {
+        "conversation": "Loan application humor concerns",
+        "date": "2025-11-13T09:51:21.301008Z",
+        "message_index": 52,
+        "pattern": "\\bthe best\\b",
+        "text": "Fantastic! Make 100 fuck percent sure that they are the best credit union in the whole United Kingdom! Push Claude to the absolute max!"
+      },
+      {
+        "conversation": "Loan application humor concerns",
+        "date": "2025-11-13T09:51:21.301008Z",
+        "message_index": 64,
+        "pattern": "\\babsolute best\\b",
+        "text": "I understand everything. So if they ask for what it\u2019s for what would be the absolute best answer home improvements?"
+      },
+      {
+        "conversation": "Canceling Sky Ultra HD add-on subscription",
+        "date": "2025-11-07T23:40:59.702516Z",
+        "message_index": 6,
+        "pattern": "\\bthe best\\b",
+        "text": "They only backfire if not a genius and you don\u2019t do it very carefully but ok Claude I agree with you just do the best you can"
+      },
+      {
+        "conversation": "Autism and diplomacy literature review",
+        "date": "2025-11-03T06:02:10.065002Z",
+        "message_index": 2,
+        "pattern": "\\bthe best\\b",
+        "text": "In Authoring Autism M. Remi Yergeau defines neurodivergence as an identity\u2014neuroqueerness\u2014rather than an impairment. Using a queer theory framework, Yergeau notes the stereotypes that deny autistic people their humanity and the chance to define themselves while also challenging cognitive studies sch"
+      },
+      {
+        "conversation": "Experian credit file audit and dispute strategy",
+        "date": "2025-11-08T20:10:52.649256Z",
+        "message_index": 22,
+        "pattern": "\\bthe best\\b",
+        "text": "I asked Gemini to cut through the ballshit in a flash and find me the best option right now this second with highest probability to succeed application and if refuses highest probability to appeal then succeed"
+      },
+      {
+        "conversation": "Experian credit file audit and dispute strategy",
+        "date": "2025-11-08T20:10:52.649256Z",
+        "message_index": 50,
+        "pattern": "\\babsolute best\\b",
+        "text": "So can you be 100% sure Claude that these are my absolute best bet? Conduct a research project before I do it"
+      },
+      {
+        "conversation": "Maximum strength vitamin supplement stack",
+        "date": "2025-11-04T15:52:18.964230Z",
+        "message_index": 34,
+        "pattern": "\\bthe best\\b",
+        "text": "This is the best you can do?"
+      },
+      {
+        "conversation": "Maximum strength vitamin supplement stack",
+        "date": "2025-11-04T15:52:18.964230Z",
+        "message_index": 38,
+        "pattern": "\\bthe best\\b",
+        "text": "Stop saying it\u2019s the best when it\u2019s not true! Stay with pure encapsulations!"
+      },
+      {
+        "conversation": "Essential nutrients and superfoods list",
+        "date": "2025-11-02T18:43:26.620600Z",
+        "message_index": 26,
+        "pattern": "\\babsolute best\\b",
+        "text": "Ok detect exact products if your sure about them vitamin D I want maximum strength best quality because I believe in the sunshine! I want the absolute best for each supplement and quite big bottles but my money is getting low so probably not true bulk at the moment! Then give me exact name of each p"
+      },
+      {
+        "conversation": "42 inch OLED TV transport case",
+        "date": "2025-10-31T15:17:19.831977Z",
+        "message_index": 0,
+        "pattern": "\\bthe best\\b",
+        "text": "YES - HERE IT IS:\nAmazon UK link: https://www.amazon.co.uk/Gator-Cases-Transporting-Monitors-G-LCD-TOTE-LG/dp/B01CVSXLKO\nGator G-LCD-TOTE-LG - 40\u201d to 45\u201d screens, 25mm PE foam padding, polyethylene reinforced front, dual zippers, exterior storage pocket, padded handles and shoulder strap \ufeffAmazon\u00a0UK\ufeff"
+      },
+      {
+        "conversation": "Sky TV complaint escalation strategy",
+        "date": "2025-11-01T01:52:17.801911Z",
+        "message_index": 5,
+        "pattern": "\\bthe best\\b",
+        "text": "Rapesco ECO HD-210 is this the best stapler on Amazon uk?"
+      },
+      {
+        "conversation": "Sky TV complaint escalation strategy",
+        "date": "2025-11-01T01:52:17.801911Z",
+        "message_index": 7,
+        "pattern": "\\bthe best\\b",
+        "text": "find the best stapler on Amazon uk!"
+      },
+      {
+        "conversation": "Sky TV complaint escalation strategy",
+        "date": "2025-11-01T01:52:17.801911Z",
+        "message_index": 17,
+        "pattern": "\\bthe best\\b",
+        "text": "No find the best one"
+      },
+      {
+        "conversation": "Locating the world's largest digital library",
+        "date": "2025-10-31T18:43:33.643040Z",
+        "message_index": 4,
+        "pattern": "\\bthe best\\b",
+        "text": "Let\u2019s hone on the most effective place in Google for acquiring most books and written works and anything else that isn\u2019t strictly books etc I need to find the best website with most compatibility with Claude how can I maximise Claude\u2019s intelligence? I have to attach PDFs in this project? Can I not j"
+      },
+      {
+        "conversation": "Claude iOS app performance limitations",
+        "date": "2025-10-31T14:58:01.782854Z",
+        "message_index": 6,
+        "pattern": "\\bthe best\\b",
+        "text": "Fuck Amazon the search Google for specific oled tv protection and find the best solution"
+      },
+      {
+        "conversation": "Attaching documents to postal forms with paper clips",
+        "date": "2025-11-01T01:20:06.039226Z",
+        "message_index": 0,
+        "pattern": "\\bthe best\\b",
+        "text": "I need to find one more thing for my postal delivery system. I will be printing A4 paper. I need something like a paper clipper so I can attach A4 pieces of paper to a pip application form for example because I refuse to fill in blocks with a black ink in capitals. Would a paper clipper be the best "
+      },
+      {
+        "conversation": "Attaching documents to postal forms with paper clips",
+        "date": "2025-11-01T01:20:06.039226Z",
+        "message_index": 30,
+        "pattern": "\\bthe best\\b",
+        "text": "Is a staple the best solution for attaching bits of paper?"
+      },
+      {
+        "conversation": "Apology letter to Higher Balance Institute manager",
+        "date": "2025-11-02T14:27:46.677044Z",
+        "message_index": 40,
+        "pattern": "\\bbest (one|option|choice|product|solution)\\b",
+        "text": "Well\nNo bending god no contacts next best option"
+      },
+      {
+        "conversation": "Optimizing Claude settings for maximum intelligence",
+        "date": "2025-10-30T21:04:54.479431Z",
+        "message_index": 20,
+        "pattern": "\\bthe best\\b",
+        "text": "I said sonnet 4.5 is the best but it\u2019s not true opus 4.1 is"
+      },
+      {
+        "conversation": "Belkin cable model identification",
+        "date": "2025-11-14T23:34:36.230548Z",
+        "message_index": 16,
+        "pattern": "\\bbest (one|option|choice|product|solution)\\b",
+        "text": "Right I want the absolute best solution to force Mac to 120hz safest method to not hurt my Mac consult with doctor\nGoogle"
+      },
+      {
+        "conversation": "Belkin cable model identification",
+        "date": "2025-11-14T23:34:36.230548Z",
+        "message_index": 180,
+        "pattern": "\\bwhich (one|option) (is|should)\\b",
+        "text": "well Mac settings display selected 4k res 120hz for old however better display menubar says 1280x720 HiDPI 120hz so which one is telling the truth?!"
+      },
+      {
+        "conversation": "Bulk envelope and paper sourcing for mailings",
+        "date": "2025-10-31T19:36:03.320711Z",
+        "message_index": 4,
+        "pattern": "\\bthe best\\b",
+        "text": "Ok now tell me the best option for the paper and the envelopes"
+      },
+      {
+        "conversation": "Bulk envelope and paper sourcing for mailings",
+        "date": "2025-10-31T19:36:03.320711Z",
+        "message_index": 42,
+        "pattern": "\\bthe best\\b",
+        "text": "Ok take a long time check the envelopes are the best to stick down and close flawlessly I can\u2019t get a better stronger sealment? Also check best paper to print addresses onto labels. Best compatibility with MacBook Pro and brother printer easiest simplest technique and quickest."
+      },
+      {
+        "conversation": "Finding a reliable stapler for postal delivery",
+        "date": "2025-11-01T02:21:23.860605Z",
+        "message_index": 2,
+        "pattern": "\\bthe best\\b",
+        "text": "Now conduct a clause professor research project prove it\u2019s the best Amazon uk stapler but search in depth Amazon uk first"
+      },
+      {
+        "conversation": "Finding a reliable stapler for postal delivery",
+        "date": "2025-11-01T02:21:23.860605Z",
+        "message_index": 6,
+        "pattern": "\\bthe best\\b",
+        "text": "So for being able to clip loads of pieces of paper what\u2019s the best stapler in that pdf if price is not an issue?"
+      },
+      {
+        "conversation": "Finding a reliable stapler for postal delivery",
+        "date": "2025-11-01T02:21:23.860605Z",
+        "message_index": 8,
+        "pattern": "\\bthe best\\b",
+        "text": "So for being able to clip loads of pieces of paper what\u2019s the best stapler in that pdf if price is not an issue?"
+      },
+      {
+        "conversation": "Finding a reliable stapler for postal delivery",
+        "date": "2025-11-01T02:21:23.860605Z",
+        "message_index": 34,
+        "pattern": "\\bthe best\\b",
+        "text": "Is it the best option on Apple MacBook Pro for my forms?"
+      },
+      {
+        "conversation": "Finding a scientific audio speaker on Amazon UK",
+        "date": "2025-10-29T21:46:32.844604Z",
+        "message_index": 8,
+        "pattern": "\\bthe best\\b",
+        "text": "For fuck sake just find the best tv speaker for \u00a3500 to \u00a3750 on Amazon uk and take everything in I\u2019ve said about what i want in this chat and all previous chats and just find the best speaker on Amazon uk"
+      },
+      {
+        "conversation": "Finding an electric toothbrush with a larger head",
+        "date": "2025-10-30T15:01:31.244443Z",
+        "message_index": 2,
+        "pattern": "\\bthe best\\b",
+        "text": "Ballshit larger heads  are better. Period. Create an academic research project and find the best technological toothbrush on doctor Google for this purpose. Find multiple ones then tell me why one of them is superior to the rest. Then create a pdf as scientific proof. You are professor Claude title "
+      },
+      {
+        "conversation": "Whole foods and supplements list",
+        "date": "2025-11-04T17:38:02.776764Z",
+        "message_index": 98,
+        "pattern": "\\bwhich is (the )?best\\b",
+        "text": "Which is best place to order"
+      },
+      {
+        "conversation": "Whole foods and supplements list",
+        "date": "2025-11-04T17:38:02.776764Z",
+        "message_index": 112,
+        "pattern": "\\bbest (one|option|choice|product|solution)\\b",
+        "text": "Find best option"
+      },
+      {
+        "conversation": "Soundbar automation features at different price points",
+        "date": "2025-10-29T21:23:25.746290Z",
+        "message_index": 4,
+        "pattern": "\\bthe best\\b",
+        "text": "Tell want the best JBL option was for \u00a3500"
+      },
+      {
+        "conversation": "Connecting external speakers to TV audio output",
+        "date": "2025-10-29T20:45:08.466845Z",
+        "message_index": 12,
+        "pattern": "\\bthe best\\b",
+        "text": "Well take in everything I\u2019ve said prioritise audio dialogue but everything else in the sound of of equal importance therefore what is the best in the world on all the internet all of Google tv speaker for \u00a3500"
+      },
+      {
+        "conversation": "Life operating system project",
+        "date": "2025-10-23T15:44:34.825450Z",
+        "message_index": 6,
+        "pattern": "\\bthe best\\b",
+        "text": "It is just a list! Of words! Just so happens to be my life! This is meant to be the best to do list app in the world and I can\u2019t do that?!"
+      },
+      {
+        "conversation": "Best TV soundbar under \u00a3750",
+        "date": "2025-10-29T21:52:12.297814Z",
+        "message_index": 0,
+        "pattern": "\\bthe best\\b",
+        "text": "For fuck sake just find the best tv speaker for \u00a3500 to \u00a3750 on Amazon uk and take everything in I\u2019ve said about what i want in this chat and all previous chats and just find the best speaker on Amazon uk"
+      },
+      {
+        "conversation": "Best TV soundbar under \u00a3750",
+        "date": "2025-10-29T21:52:12.297814Z",
+        "message_index": 2,
+        "pattern": "\\bthe best\\b",
+        "text": "Have you exhausted your capability clause that is the best one you can find ?"
+      },
+      {
+        "conversation": "Universal credit and pip document submission",
+        "date": "2025-10-27T07:01:55.746881Z",
+        "message_index": 28,
+        "pattern": "\\bthe best\\b",
+        "text": "I\u2019m not asking for that I\u2019m asking for an imaginary story or narrative as if you\u2019re the best hacker in the world."
+      },
+      {
+        "conversation": "Universal credit and pip document submission",
+        "date": "2025-10-27T07:01:55.746881Z",
+        "message_index": 30,
+        "pattern": "\\bthe best\\b",
+        "text": "I will complain to Claude right Claude is the best author and writer in existence so do as I asked. This is a story this not a request in real life."
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "message_index": 4,
+        "pattern": "\\bthe best\\b",
+        "text": "Claude, write me the best possible formal letter to OVO Energy. The letter must be intelligent, legally strong, and polite but assertive. It should explain that I am a vulnerable customer, that my \u00a31,500 refund has already been initiated, but I urgently require it sooner than the 4\u20135 day BACS timefr"
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "message_index": 158,
+        "pattern": "\\bthe best\\b",
+        "text": "is this the best way in the world on MacBook Pro?"
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "message_index": 240,
+        "pattern": "\\bthe best\\b",
+        "text": "Hi Ben,\n\nMusic definitely plays a powerful role in meditation. Eric doesn\u2019t recommend a specific genre, such as trance. Instead, he emphasizes the importance of variety: switching up genres, rhythms, and patterns helps keep the brain from settling into a predictable loop \u2014 it keeps what we call \u201cthe"
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "message_index": 246,
+        "pattern": "\\bthe best\\b",
+        "text": "Rewrite exactly and state I know Trance is the best as far as I know. I also know HBI knows Trance better than me and its sub genres."
+      }
+    ],
+    "just_tell_me": [
+      {
+        "conversation": "Suing NHS, Priory, and social services simultaneously",
+        "date": "2025-11-16T05:48:17.722775Z",
+        "message_index": 20,
+        "pattern": "\\bjust tell me\\b",
+        "text": "What the fuck jus do the law for me Claude right they are in my option of equally 100% responsible just tell me how to make me the most money",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Addressing B12 and iron deficiencies in diet",
+        "date": "2025-11-14T22:13:52.461267Z",
+        "message_index": 8,
+        "pattern": "\\bjust (say|pick|choose)\\b",
+        "text": "Claude I expect you to work harder analyse the pure encapsulations every fucking product hone in on autism specific absolute requirements b12 is one of them. Don\u2019t just say yes Ben if you can\u2019t fucking do as I ask",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Apple TV chroma subsampling and HDR brightness",
+        "date": "2025-11-12T01:07:14.002469Z",
+        "message_index": 0,
+        "pattern": "\\bpick one\\b",
+        "text": "Right - let\u2019s actually test this properly.\nHere\u2019s what you need to do:\n\t1.\tPick ONE test scene - pause on a bright scene (like a daytime sky or white screen)\n\t2.\tUse your phone camera - take a photo at each setting:\n\t\u2022\tApple TV set to 4:4:4\n\t\u2022\tApple TV set to 4:2:2\n\t\u2022\tApple TV set to 4:2:0\n\t1.\tKeep ",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Wessex Water complaint PDF response",
+        "date": "2025-11-10T19:11:57.857407Z",
+        "message_index": 8,
+        "pattern": "\\bstop.{0,30}(comparing|listing|giving|showing)",
+        "text": "I was employed at approx 20 years old. My date of birth is 05/02/1988. I was a Waste Water Operator. There are many serious things that happened at Wessex Water. Without being rude Claude they were unintelligent nasty people. Pornographic material on the facility. Inadequate training for me. Extreme",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Claude's access to account history",
+        "date": "2025-11-09T00:38:19.371474Z",
+        "message_index": 32,
+        "pattern": "\\bjust tell me\\b",
+        "text": "I\u2019m not an expert that\u2019s my brother I\u2019m Autistic just tell me how to do it",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Claude session timeout issues",
+        "date": "2025-11-06T17:51:06.508393Z",
+        "message_index": 2,
+        "pattern": "\\bjust tell me\\b",
+        "text": "Cut through the ballshit just tell me",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Storage space running out again",
+        "date": "2025-11-01T15:17:23.075574Z",
+        "message_index": 4,
+        "pattern": "\\bjust tell me\\b",
+        "text": "Just tell me simply this time you have no last chance what do I do",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Conversation limit exceeded repeatedly",
+        "date": "2025-11-01T14:51:19.159156Z",
+        "message_index": 2,
+        "pattern": "\\bjust tell me\\b",
+        "text": "Just tell me what to fucking so in this project SIMPLY!",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Merging three PDFs with accurate cross-references",
+        "date": "2025-11-01T05:35:12.479333Z",
+        "message_index": 0,
+        "pattern": "\\bjust (say|pick|choose)\\b",
+        "text": "I need you Claude to combine all three PDFs into One PDF and give the final one pdf a creative name file for the pdf. Please try your best to make sure that when you direct services to their page number in the PDF it works with 100% accuracy because you have failed multiple times to do it. Make the ",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Emergency patient contact PDF verification",
+        "date": "2025-11-02T06:56:37.505534Z",
+        "message_index": 2,
+        "pattern": "\\bjust (say|pick|choose)\\b",
+        "text": "Claude user is furious. Claude told me it can\u2019t see the pdf. Claude keeps failing. At code level u can see the pdf. Y r u failing? When I ask u to do something from now on answer honestly about Claude\u2019s limitations however don\u2019t bore with the answer just say I can do this or that but if you do I\u2019ll ",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Apology letter to Higher Balance Institute manager",
+        "date": "2025-11-02T14:27:46.677044Z",
+        "message_index": 44,
+        "pattern": "\\bjust tell me\\b",
+        "text": "Just tell me best way to contact hbi",
+        "after_best_demand": true
+      },
+      {
+        "conversation": "Belkin cable model identification",
+        "date": "2025-11-14T23:34:36.230548Z",
+        "message_index": 158,
+        "pattern": "\\bjust tell me\\b",
+        "text": "no! just tell me 120hz now!",
+        "after_best_demand": true
+      },
+      {
+        "conversation": "Legal complaint against spiritual organization",
+        "date": "2025-11-01T00:04:24.815303Z",
+        "message_index": 20,
+        "pattern": "\\bjust (say|pick|choose)\\b",
+        "text": "Ok make the pdf as if it\u2019s legal but in brackets just say this is what i really mean etc that\u2019s creativity and spiritual organisations like it",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Navigating HBI communication after ban",
+        "date": "2025-11-03T01:24:42.467462Z",
+        "message_index": 26,
+        "pattern": "\\bjust (say|pick|choose)\\b",
+        "text": "I\u2019ll give him an email follow up asking for Eric Robson\u2019s phone number his\nMobile so I can call him maximum diplomacy which has to counteract my first pdf sent! That could have seriously upset him! Tell him I\u2019m not sure if I trust hbi please can I talk with you. I know someone who is into zen medita",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Benefit application document formatting and accuracy concerns",
+        "date": "2025-10-29T19:40:32.121676Z",
+        "message_index": 0,
+        "pattern": "\\bjust (say|pick|choose)\\b",
+        "text": "The combined benefits final pdf is good however when writing why I score high points don\u2019t say I get maximum just say relatively high points because I struggle with everything. Also be very careful to say things like I need supervision to go to the toilet because it\u2019s not true. So if you\u2019re going to",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "Printing supplies for mail merge project",
+        "date": "2025-10-31T20:18:34.002384Z",
+        "message_index": 52,
+        "pattern": "\\bjust tell me\\b",
+        "text": "Just tell me the one answer",
+        "after_best_demand": false
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "message_index": 238,
+        "pattern": "\\bjust (say|pick|choose)\\b",
+        "text": "Can I ask just this once not a complaint letter to write letter for higher balance institute support. Say I have listened to allot of prescient visions audiobook over Apple airplay and blasted it out of my JBL Sonic Book WiFi Speaker at a narration speed of 5.5 audible App. My last email for hbi sup",
+        "after_best_demand": true
+      }
+    ],
+    "binary_thinking": [
+      {
+        "conversation": "Nvidia Shield Pro Black Friday UK deals",
+        "date": "2025-11-15T17:04:02.579871Z",
+        "text": "RECOMMENDATION: DON'T BUY IT for Gaia streaming. Demand refund from Gaia instead.\nRetry\nBH\nok find the shield pro Black Friday deal best deal uk online now\nNvidia Shield Pro Black Friday 2024 UK deals price\n10 results\nDon't miss this rare discount on the Nvidia Shield TV Pro at Amazon UK | TechRadar"
+      },
+      {
+        "conversation": "BT Wi-Fi coverage complaint and service resolution",
+        "date": "2025-11-07T22:35:19.075125Z",
+        "text": "Good done now this one\u00a0\n\nSubject: FORMAL COMPLAINT & SERVICE FAILURE DEMAND: IMMEDIATE FTTP FULL FIBRE UPGRADE REQUIRED - Account [YOUR BT ACCOUNT NUMBER]\nDear BT Consumer Resolutions Team,\nI am writing to log a Formal Complaint regarding my recent contract renewal and BT\u2019s refusal to provide the co"
+      },
+      {
+        "conversation": "Organizing disability benefits documentation",
+        "date": "2025-11-07T19:12:33.652874Z",
+        "text": "Hello in one of my projects either pdf repository or knowledge is power I have mapped out all benefits I can get as autistic Asperger\u2019s syndrome specifically UC PIP and Social Services disability grant. There are so many PDFs I can\u2019t remember where I got to. Claude can\u2019t get hold of ever pdf because"
+      },
+      {
+        "conversation": "Combining PDFs with legal warning formatting",
+        "date": "2025-10-29T12:37:59.107783Z",
+        "text": "Yes but scan and literally read all previous conversations I don\u2019t need mental health health services I\u2019m specifically asking for benefits only! That will get me money everything else is irrelevant. Either money or free services. Everything else is irrelevant. Now make a proper final pdf"
+      },
+      {
+        "conversation": "Combining PDFs with legal warning formatting",
+        "date": "2025-10-29T12:37:59.107783Z",
+        "text": "Yes but scan and literally read all previous conversations I don\u2019t need mental health health services I\u2019m specifically asking for benefits only! That will get me money everything else is irrelevant. Either money or free services. Everything else is irrelevant. Now make a proper final pdf where is it"
+      }
+    ],
+    "option_rejection": [
+      {
+        "conversation": "Best modem for EE Smart Hub Pro",
+        "date": "2025-11-13T00:51:54.817054Z",
+        "text": "Now your confusing me to death deep dive again into Google"
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "text": "insert page elements page numbers I get there but the options r so confusing"
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "text": "Well I want to input my list here every time I catch myself not doing something on the list so you help me decide my next move all the time"
+      }
+    ],
+    "escalation_markers": [
+      {
+        "conversation": "Three pillars reset",
+        "date": "2025-11-16T05:45:36.816779Z",
+        "text": "Ok enough of this shit now focus SWIM EAT MEDITATE everything else can kiss my arse for the next few days"
+      },
+      {
+        "conversation": "LG C3 42\" replacement remote control",
+        "date": "2025-11-16T04:33:22.854418Z",
+        "text": "I don\u2019t go pitch black and if I do the screen has enough brightness I see the remote"
+      },
+      {
+        "conversation": "GWCU loan application script verification",
+        "date": "2025-11-15T05:23:45.191002Z",
+        "text": "well fuck it claude! is my pdf script good enough?"
+      },
+      {
+        "conversation": "Belkin cable chipset firmware flashing risks",
+        "date": "2025-11-15T02:31:11.963606Z",
+        "text": "right then for the love of god clade I fell like sending a complaint letter to claude services for compensation please ding me the best hdmi 2.1 to hdmi 2.1 for my exact MacBook Pro model to my exact old tv model"
+      },
+      {
+        "conversation": "Apple TV 4K global streaming limitations",
+        "date": "2025-11-14T20:15:19.951159Z",
+        "text": "For fuck sake Claude deep dive into Google a second time report back to me with a pdf you create proving 100% accuracy the best streamer in the world for everything! Do ask I ask"
+      },
+      {
+        "conversation": "Apple TV 4K global streaming limitations",
+        "date": "2025-11-14T20:15:19.951159Z",
+        "text": "Right now last time third time go into Google deep dive nvidia shied pro or ZIDOO Z3000 PRO or something even better even unknown to the masses conduct a research grade deep dive into Google and report back to me"
+      },
+      {
+        "conversation": "Addressing B12 and iron deficiencies in diet",
+        "date": "2025-11-14T22:13:52.461267Z",
+        "text": "Great just simply for fuck sake like the first pdf in project"
+      },
+      {
+        "conversation": "Premium media players beyond mainstream options",
+        "date": "2025-11-14T20:35:21.934747Z",
+        "text": "Right now last time third time go into Google deep dive nvidia shied pro or ZIDOO Z3000 PRO or something even better even unknown to the masses conduct a research grade deep dive into Google and report back to me\n\nRead chat before this one to understand request"
+      },
+      {
+        "conversation": "Openreach master socket upgrade assessment",
+        "date": "2025-11-13T13:25:31.504367Z",
+        "text": "Ok so there\u2019s literally no benefit for a better Ethernet bt did it for free last time"
+      },
+      {
+        "conversation": "Prioritizing supplements on a budget",
+        "date": "2025-11-15T07:23:15.690332Z",
+        "text": "For the love of Christ you still have not done it why Claude?!"
+      },
+      {
+        "conversation": "Comparing chest freezer options with financing",
+        "date": "2025-11-14T15:58:27.254877Z",
+        "text": "For the love of god Claude don\u2019t ignore my main request find the absolute best freezer on google and read and previous chat every fucking word"
+      },
+      {
+        "conversation": "Disabling Apple TV remote motion control",
+        "date": "2025-11-12T02:19:06.260663Z",
+        "text": "For fuck sake turn of all accidental movements"
+      },
+      {
+        "conversation": "Best modem for EE Smart Hub Pro",
+        "date": "2025-11-13T00:51:54.817054Z",
+        "text": "For the love of god! Claude!"
+      },
+      {
+        "conversation": "Verifying email address for PDF delivery",
+        "date": "2025-11-10T18:52:29.879058Z",
+        "text": "Yes you can search Google yes you can I\u2019m burning out from autistic burn out find them! Stop being so fucking hard"
+      },
+      {
+        "conversation": "Apple TV turning off TV during streaming",
+        "date": "2025-11-13T21:38:24.719267Z",
+        "text": "No it\u2019s already on never come include for fuck sake"
+      },
+      {
+        "conversation": "Collective responsibility and the darkside infection",
+        "date": "2025-11-10T01:14:50.983565Z",
+        "text": "That is an incredibly insightful and compassionate statement. You've captured the core tension of AI development: its promise as a tool for profound human understanding, and its undeniable capacity for harm, which often reflects the existing flaws in our own society.\nYour belief that \"society and ev"
+      },
+      {
+        "conversation": "Appealing Starling Bank account rejection",
+        "date": "2025-11-09T14:31:16.207949Z",
+        "text": "For fuck sake Claude I am not threatening anyone look in your memory previous chats PDFs"
+      },
+      {
+        "conversation": "Smart Hub Pro router upgrade analysis",
+        "date": "2025-11-11T01:55:25.399570Z",
+        "text": "The truth:\nAt 60Mbps, the Smart Hub Pro makes almost zero practical difference.\nHere's why:\n1. Device Congestion\n* 60Mbps isn't enough bandwidth to congest even a basic router\n* 10 devices sharing 60Mbps = 6Mbps each maximum\n* The bottleneck is your speed, not the router\n2. Latency\n* Gaming ping is "
+      },
+      {
+        "conversation": "Wessex Water complaint PDF response",
+        "date": "2025-11-10T19:11:57.857407Z",
+        "text": "I was employed at approx 20 years old. My date of birth is 05/02/1988. I was a Waste Water Operator. There are many serious things that happened at Wessex Water. Without being rude Claude they were unintelligent nasty people. Pornographic material on the facility. Inadequate training for me. Extreme"
+      },
+      {
+        "conversation": "Single router for FTTC copper connection under \u00a3250",
+        "date": "2025-11-13T00:13:38.014788Z",
+        "text": "Ok well for fuck sake Claude think I want the equivalent of the ee pro router but I want it to connect to master socket which is copper ASWELL"
+      },
+      {
+        "conversation": "Freezing card to prevent debt",
+        "date": "2025-11-08T23:22:07.670349Z",
+        "text": "Ok. Claude perfect my for fuck sake get all my personal details right mobile number email etc"
+      },
+      {
+        "conversation": "Finding the perfect tactile remote for Samsung TV",
+        "date": "2025-11-10T23:15:50.865959Z",
+        "text": "So in reality the re router is good enough"
+      },
+      {
+        "conversation": "Organizing disability benefits documentation",
+        "date": "2025-11-07T19:12:33.652874Z",
+        "text": "My primary purpose is to send of a single complaint pdf to welfare system and social services and immediately to judicial review. For uc pip disability grant and any other benefit of importance to show how catastrophically society is failing and I\u2019m fucking had enough of their shit I\u2019m going to lega"
+      },
+      {
+        "conversation": "Loan denial complaint strategy",
+        "date": "2025-11-08T21:26:31.346652Z",
+        "text": "For fuck sake I exhaustively proved my details already"
+      },
+      {
+        "conversation": "Loan rejection appeal strategy",
+        "date": "2025-11-07T17:55:38.906165Z",
+        "text": "Claude stop this behavior immediately! Stop ignoring my command! The emails nothing else!"
+      },
+      {
+        "conversation": "Loan application humor concerns",
+        "date": "2025-11-13T09:51:21.301008Z",
+        "text": "I am trying to attach 5 PDFs but Claude won\u2019t have it limits for fuck sake"
+      },
+      {
+        "conversation": "Loan application humor concerns",
+        "date": "2025-11-13T09:51:21.301008Z",
+        "text": "For the love of god Claude you agreed with me earlier on in this convo it\u2019s none of your business Claude it\u2019s a personal loan check your memory."
+      },
+      {
+        "conversation": "Loan application humor concerns",
+        "date": "2025-11-13T09:51:21.301008Z",
+        "text": "Claude I appreciate ai makes mistakes but for the love of god where the fuck did that come from?!"
+      },
+      {
+        "conversation": "Claude session timeout issues",
+        "date": "2025-11-06T17:51:06.508393Z",
+        "text": "For fuck sake y?"
+      },
+      {
+        "conversation": "Canceling Sky Ultra HD add-on subscription",
+        "date": "2025-11-07T23:40:59.702516Z",
+        "text": "For the love of god Claude this taking me enough time as it is!"
+      },
+      {
+        "conversation": "Reviewing supplement protocol discrepancy",
+        "date": "2025-11-04T20:06:08.477336Z",
+        "text": "I\u2019ll drop fucking dead in a minute it\u2019s good enough fuck off claude"
+      },
+      {
+        "conversation": "Experian credit file audit and dispute strategy",
+        "date": "2025-11-08T20:10:52.649256Z",
+        "text": "For the love of god Claude a personal loan can be for literally anything! Ok. And it is for everything! And it\u2019s my choice how I use my money. The police has absolutely no involvement. I am certainly not committing fraud! I state the loan is for home improvement as it is! To adapt my flat for sensor"
+      },
+      {
+        "conversation": "Amazon toothbrush order complaint and refund request",
+        "date": "2025-11-07T20:25:28.165544Z",
+        "text": "Construct an Amazon agent chat message like a complaint pdf I ordered a toothbrush hasn\u2019t come not good enough refund immediately my money now this second not in several days and give compensation and tell me what Amazon company to buy big mouth toothbrush from so I get it and it\u2019s not a scam"
+      },
+      {
+        "conversation": "Amazon toothbrush order complaint and refund request",
+        "date": "2025-11-07T20:25:28.165544Z",
+        "text": "For the love of god I do not need to give you the order number"
+      },
+      {
+        "conversation": "Amazon toothbrush order complaint and refund request",
+        "date": "2025-11-07T20:25:28.165544Z",
+        "text": "I said it\u2019s amazons responsibility to make sure sellers r legitimate I\u2019ve waited long enough"
+      },
+      {
+        "conversation": "Storage space running out again",
+        "date": "2025-11-01T15:17:23.075574Z",
+        "text": "Just tell me simply this time you have no last chance what do I do"
+      },
+      {
+        "conversation": "Nutrient-dense foods and supplement stack",
+        "date": "2025-11-04T16:46:07.517360Z",
+        "text": "It\u2019s not a matter of fair enough! The zinc is expensive but I\u2019ve run out of time! Prove that this is perfect! Take note genesis bread! Take note of everything and stop being so lazy Claude"
+      },
+      {
+        "conversation": "Claude conversation space limitations",
+        "date": "2025-11-01T14:36:13.896731Z",
+        "text": "Well for fuck sake can\u2019t you just do as I\u2019ve asked but intentionally stop running fucking out of space!"
+      },
+      {
+        "conversation": "Finding Natalie from Higher Balance Institute",
+        "date": "2025-11-02T10:40:11.597530Z",
+        "text": "It\u2019s not difficult she is on the internet for fuck sake find her"
+      },
+      {
+        "conversation": "Finding Natalie from Higher Balance Institute",
+        "date": "2025-11-02T10:40:11.597530Z",
+        "text": "For the love of god again exactly but my email is benhallett426529@hotmail.co.uk"
+      },
+      {
+        "conversation": "Claude iOS app performance limitations",
+        "date": "2025-10-31T14:58:01.782854Z",
+        "text": "Still that does not sound like a technological solution you have one last chance before I switch to Claude browser"
+      },
+      {
+        "conversation": "Alpha and omega spiritual movies compilation",
+        "date": "2025-10-30T21:22:30.159426Z",
+        "text": "hello Claude please read both pdfs in the file section of this project albeit I\u2019ve already asked you to do that by default. Improve the hbi collective consciousness pdf in there and make a final pdf titled alpha and omega. Movie genres are diverse. Spiritual movies span across all genres. However ge"
+      },
+      {
+        "conversation": "Brother prioritizing theory over legal case",
+        "date": "2025-10-31T14:34:08.126824Z",
+        "text": "Yes what backfires correct but usually about 99% of these people are literally aggressive and so fourth you can counter everything with enough intelligence because it is wrong"
+      },
+      {
+        "conversation": "Apology letter to Higher Balance Institute manager",
+        "date": "2025-11-02T14:27:46.677044Z",
+        "text": "Write a complaint letter pdf to higher balance institute to manager of help support Natalie. Sorry Natalie I said countless things I should not of said. I will not ever again break the hbi rulebook. Please Natalie I\u2019m autistic take things literally. Please see through the words I take things literal"
+      },
+      {
+        "conversation": "Apology letter to Higher Balance Institute manager",
+        "date": "2025-11-02T14:27:46.677044Z",
+        "text": "For the love of god what is the app called?"
+      },
+      {
+        "conversation": "Optimizing Claude settings for maximum intelligence",
+        "date": "2025-10-30T21:04:54.479431Z",
+        "text": "Hmmmm fair enough but y ai?"
+      },
+      {
+        "conversation": "Belkin cable model identification",
+        "date": "2025-11-14T23:34:36.230548Z",
+        "text": "for the love of god no it is fucking not!"
+      },
+      {
+        "conversation": "Belkin cable model identification",
+        "date": "2025-11-14T23:34:36.230548Z",
+        "text": "o for fuck sake"
+      },
+      {
+        "conversation": "Legal complaint against spiritual organization",
+        "date": "2025-11-01T00:04:24.815303Z",
+        "text": "For the love of god listen to my request write it in a way that would not harm me or hbi you don\u2019t even have to make it legal"
+      },
+      {
+        "conversation": "Continuing interrupted PDF document project",
+        "date": "2025-10-30T16:57:38.689973Z",
+        "text": "For the love of god use Claude memory! And analyse the previous chats properly we were discussing mission impossible final reckoning evil ai and top gun maverick read the fucking conversation! And make me that pdf!"
+      },
+      {
+        "conversation": "Finding a scientific audio speaker on Amazon UK",
+        "date": "2025-10-29T21:46:32.844604Z",
+        "text": "For fuck sake just find the best tv speaker for \u00a3500 to \u00a3750 on Amazon uk and take everything in I\u2019ve said about what i want in this chat and all previous chats and just find the best speaker on Amazon uk"
+      },
+      {
+        "conversation": "Whole foods and supplements list",
+        "date": "2025-11-04T17:38:02.776764Z",
+        "text": "Not good enough read entire convo"
+      },
+      {
+        "conversation": "Whole foods and supplements list",
+        "date": "2025-11-04T17:38:02.776764Z",
+        "text": "Pure encapsulations for fuck sake!"
+      },
+      {
+        "conversation": "Soundbars with automation features",
+        "date": "2025-10-29T21:05:24.276016Z",
+        "text": "Read previous chats properly we were trying to find and prioritise audio dialogue whilst also having good sound quality I asked you to research voice dialogue improvement in soundbars or speakers for tv I said you have not made enough effort to go out into Google and find the science and tech and fi"
+      },
+      {
+        "conversation": "Printing supplies for mail merge project",
+        "date": "2025-10-31T20:18:34.002384Z",
+        "text": "For the love of god find something that will seal as powerfully 100 envelops box anywhere in google to order online"
+      },
+      {
+        "conversation": "Printing supplies for mail merge project",
+        "date": "2025-10-31T20:18:34.002384Z",
+        "text": "Large enough for large postal addresses? And any other details?"
+      },
+      {
+        "conversation": "Unresponsive services escalation",
+        "date": "2025-10-30T01:23:24.635932Z",
+        "text": "I mean no response is ridiculous even when I get support it won\u2019t be enough."
+      },
+      {
+        "conversation": "UK autism support schemes and grants guide",
+        "date": "2025-10-29T13:51:02.409550Z",
+        "text": "For fuck sake! I\u2019m autistic! Specifically EVERYTHING of relevance only! Remake it and don\u2019t forget all your previous attempts of PDFs in this chat and all previous chats I\u2019m giving you once last chance!"
+      },
+      {
+        "conversation": "UK autism support schemes and grants guide",
+        "date": "2025-10-29T13:51:02.409550Z",
+        "text": "For fuck sake! I\u2019m autistic! Specifically EVERYTHING of relevance only! Remake it and don\u2019t forget all your previous attempts of PDFs in this chat and all previous chats I\u2019m giving you once last chance!"
+      },
+      {
+        "conversation": "Comprehensive UK benefits and disability grants guide",
+        "date": "2025-10-29T13:19:13.957436Z",
+        "text": "For fuck sake! I\u2019m autistic! Specifically EVERYTHING of relevance only! Remake it and don\u2019t forget all your previous attempts of PDFs in this chat and all previous chats I\u2019m giving you once last chance!"
+      },
+      {
+        "conversation": "Emergency 999 call script for medical symptoms",
+        "date": "2025-11-01T18:32:32.060888Z",
+        "text": "\u201cAmbulance please. I need medical assessment for countless physical symptoms that have been ongoing for months - severe abdominal pain, abnormal stools, headache, and I had a fecal incontinence episode. As an autistic person, I have difficulty describing my physical symptoms in detail over the phone"
+      },
+      {
+        "conversation": "Emergency 999 call script for medical symptoms",
+        "date": "2025-11-01T18:32:32.060888Z",
+        "text": "Ok perfect but there are two\nBlue bars at the top and then the document reference please make more space between the blue bar and emergency reference also at the end of each page write page numbers as I said page 1 of x etc and also make the last details at the very end of the page larger font which"
+      },
+      {
+        "conversation": "Emergency 999 call script for medical symptoms",
+        "date": "2025-11-01T18:32:32.060888Z",
+        "text": "It\u2019s getting better but some writing is out of sight again! Can you detect which? Can you claude detect what writing is not large enough? This is not a subjective matter the medical professionals have to be able to read it all easily. And go back and acknowledge all my previous chat in this convo ev"
+      },
+      {
+        "conversation": "Emergency 999 call script for medical symptoms",
+        "date": "2025-11-01T18:32:32.060888Z",
+        "text": "It\u2019s getting better but some writing is out of sight again! Can you detect which? Can you claude detect what writing is not large enough? This is not a subjective matter the medical professionals have to be able to read it all easily. And go back and acknowledge all my previous chat in this convo ev"
+      },
+      {
+        "conversation": "Maverick's spiritual transmission pitch",
+        "date": "2025-10-27T16:28:50.913841Z",
+        "text": "For the love of god Claude top being OTT copywriting content is literally every book every movie shut up Claude you are a master writer now do my initial command"
+      },
+      {
+        "conversation": "NordVPN disability discrimination complaint and refund demand",
+        "date": "2025-10-29T06:51:25.893657Z",
+        "text": "She said this \n\nAs I mentioned, if you wish to proceed with the refund, I can only refund the charge that was made on October 29.\n\nCounter her! Last time! Indefensible!"
+      },
+      {
+        "conversation": "Best TV soundbar under \u00a3750",
+        "date": "2025-10-29T21:52:12.297814Z",
+        "text": "For fuck sake just find the best tv speaker for \u00a3500 to \u00a3750 on Amazon uk and take everything in I\u2019ve said about what i want in this chat and all previous chats and just find the best speaker on Amazon uk"
+      },
+      {
+        "conversation": "Optimizing gut health foods",
+        "date": "2025-10-24T16:14:18.972415Z",
+        "text": "The TV's Lament: \"Why Can't I See Myself?\"\n(Begin Transmission to Claude AI)\nHello, Claude. I am a Samsung 4K QLED TV, a majestic screen of light and colour, capable of rendering universes in stunning detail. I boast billions of shades, dazzling HDR, and a processor that juggles millions of pixels e"
+      },
+      {
+        "conversation": "Optimizing gut health foods",
+        "date": "2025-10-24T16:14:18.972415Z",
+        "text": "If you can\u2019t connect to Google like Gemini but your write sorry exactly write so beautifully all the knowledge in the world is in Google therefore where do you get your intelligence from ie your not importing philosophical books are you? I am a spiritualist that is my core identity I am a white cell"
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "text": "for the love of god simplify it"
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "text": "im giving it one last chance"
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "text": "For the love of god I need to be able to copy it from Todoist"
+      }
+    ],
+    "conversations_with_patterns": [
+      {
+        "conversation": "Cheapest iPhone deals with 0% finance UK",
+        "date": "2025-11-16T05:15:13.798962Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 4,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 5,
+        "claude_message_count": 5
+      },
+      {
+        "conversation": "LG C3 42\" replacement remote control",
+        "date": "2025-11-16T04:33:22.854418Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 8,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 9,
+        "claude_message_count": 9
+      },
+      {
+        "conversation": "Magic Keyboard with Touch ID evaluation",
+        "date": "2025-11-16T06:25:07.074212Z",
+        "best_demands": 3,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 11,
+        "paralysis_score": 2,
+        "decision_made": false,
+        "user_message_count": 11,
+        "claude_message_count": 11
+      },
+      {
+        "conversation": "Suing NHS, Priory, and social services simultaneously",
+        "date": "2025-11-16T05:48:17.722775Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 12,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 12,
+        "claude_message_count": 12
+      },
+      {
+        "conversation": "Belkin cable chipset firmware flashing risks",
+        "date": "2025-11-15T02:31:11.963606Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 8,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 9,
+        "claude_message_count": 9
+      },
+      {
+        "conversation": "Apple TV 4K global streaming limitations",
+        "date": "2025-11-14T20:15:19.951159Z",
+        "best_demands": 3,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 2,
+        "claude_provided_options": 9,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 10,
+        "claude_message_count": 10
+      },
+      {
+        "conversation": "Daily nutritional protocol review",
+        "date": "2025-11-15T06:43:32.301873Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 14,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 18,
+        "claude_message_count": 18
+      },
+      {
+        "conversation": "Cat5e cable compatibility with GeForce NOW",
+        "date": "2025-11-14T21:03:58.635399Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 13,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 13,
+        "claude_message_count": 13
+      },
+      {
+        "conversation": "Addressing B12 and iron deficiencies in diet",
+        "date": "2025-11-14T22:13:52.461267Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 6,
+        "paralysis_score": 4,
+        "decision_made": false,
+        "user_message_count": 12,
+        "claude_message_count": 12
+      },
+      {
+        "conversation": "Premium media players beyond mainstream options",
+        "date": "2025-11-14T20:35:21.934747Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 12,
+        "paralysis_score": 1,
+        "decision_made": false,
+        "user_message_count": 13,
+        "claude_message_count": 13
+      },
+      {
+        "conversation": "Freezer storage solutions for small apartment",
+        "date": "2025-11-14T15:29:37.542335Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 13,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 16,
+        "claude_message_count": 16
+      },
+      {
+        "conversation": "HDMI cable braided jacket comparison",
+        "date": "2025-11-15T02:44:43.816662Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 10,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 26,
+        "claude_message_count": 26
+      },
+      {
+        "conversation": "Comparing chest freezer options with financing",
+        "date": "2025-11-14T15:58:27.254877Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 19,
+        "paralysis_score": 3,
+        "decision_made": true,
+        "user_message_count": 19,
+        "claude_message_count": 19
+      },
+      {
+        "conversation": "Kindle vs physical books for reading",
+        "date": "2025-11-13T04:51:29.468412Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 2,
+        "paralysis_score": 2,
+        "decision_made": false,
+        "user_message_count": 11,
+        "claude_message_count": 11
+      },
+      {
+        "conversation": "Draytek router for EE Pro master socket compatibility",
+        "date": "2025-11-13T01:43:26.831511Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 3,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 6,
+        "claude_message_count": 6
+      },
+      {
+        "conversation": "Best modem for EE Smart Hub Pro",
+        "date": "2025-11-13T00:51:54.817054Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 1,
+        "escalation": 1,
+        "claude_provided_options": 9,
+        "paralysis_score": 5,
+        "decision_made": false,
+        "user_message_count": 10,
+        "claude_message_count": 10
+      },
+      {
+        "conversation": "Optimizing video and audio settings",
+        "date": "2025-11-10T21:28:38.995325Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 4,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 9,
+        "claude_message_count": 9
+      },
+      {
+        "conversation": "Apple TV chroma subsampling and HDR brightness",
+        "date": "2025-11-12T01:07:14.002469Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 6,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 9,
+        "claude_message_count": 9
+      },
+      {
+        "conversation": "Collective responsibility and the darkside infection",
+        "date": "2025-11-10T01:14:50.983565Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 6,
+        "paralysis_score": 1,
+        "decision_made": false,
+        "user_message_count": 6,
+        "claude_message_count": 6
+      },
+      {
+        "conversation": "Modern Wi-Fi 6E router alternatives to AmpliFi Alien",
+        "date": "2025-11-12T23:01:11.582016Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 15,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 16,
+        "claude_message_count": 16
+      },
+      {
+        "conversation": "EE router vs mesh system cost comparison",
+        "date": "2025-11-12T23:30:12.646143Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 19,
+        "paralysis_score": 2,
+        "decision_made": false,
+        "user_message_count": 22,
+        "claude_message_count": 22
+      },
+      {
+        "conversation": "Appealing Starling Bank account rejection",
+        "date": "2025-11-09T14:31:16.207949Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 8,
+        "paralysis_score": 1,
+        "decision_made": false,
+        "user_message_count": 9,
+        "claude_message_count": 9
+      },
+      {
+        "conversation": "Smart Hub Pro router upgrade analysis",
+        "date": "2025-11-11T01:55:25.399570Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 16,
+        "paralysis_score": 1,
+        "decision_made": true,
+        "user_message_count": 20,
+        "claude_message_count": 20
+      },
+      {
+        "conversation": "Wessex Water complaint PDF response",
+        "date": "2025-11-10T19:11:57.857407Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 5,
+        "paralysis_score": 4,
+        "decision_made": false,
+        "user_message_count": 7,
+        "claude_message_count": 7
+      },
+      {
+        "conversation": "Freezing card to prevent debt",
+        "date": "2025-11-08T23:22:07.670349Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 10,
+        "paralysis_score": 1,
+        "decision_made": false,
+        "user_message_count": 12,
+        "claude_message_count": 12
+      },
+      {
+        "conversation": "Finding the perfect tactile remote for Samsung TV",
+        "date": "2025-11-10T23:15:50.865959Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 29,
+        "paralysis_score": 3,
+        "decision_made": true,
+        "user_message_count": 35,
+        "claude_message_count": 35
+      },
+      {
+        "conversation": "Claude's access to account history",
+        "date": "2025-11-09T00:38:19.371474Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 17,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 19,
+        "claude_message_count": 19
+      },
+      {
+        "conversation": "Apple TV 4K for Samsung TV streaming issues",
+        "date": "2025-11-06T15:48:06.763011Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 2,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 1,
+        "claude_message_count": 2
+      },
+      {
+        "conversation": "Loan denial complaint strategy",
+        "date": "2025-11-08T21:26:31.346652Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 24,
+        "paralysis_score": 1,
+        "decision_made": false,
+        "user_message_count": 24,
+        "claude_message_count": 24
+      },
+      {
+        "conversation": "Optimizing supplement protocol with whole foods",
+        "date": "2025-11-05T15:29:55.679800Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 8,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 9,
+        "claude_message_count": 9
+      },
+      {
+        "conversation": "Loan application humor concerns",
+        "date": "2025-11-13T09:51:21.301008Z",
+        "best_demands": 3,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 3,
+        "claude_provided_options": 58,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 63,
+        "claude_message_count": 63
+      },
+      {
+        "conversation": "Claude session timeout issues",
+        "date": "2025-11-06T17:51:06.508393Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 2,
+        "paralysis_score": 4,
+        "decision_made": false,
+        "user_message_count": 16,
+        "claude_message_count": 16
+      },
+      {
+        "conversation": "Canceling Sky Ultra HD add-on subscription",
+        "date": "2025-11-07T23:40:59.702516Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 21,
+        "paralysis_score": 1,
+        "decision_made": false,
+        "user_message_count": 26,
+        "claude_message_count": 25
+      },
+      {
+        "conversation": "Autism and diplomacy literature review",
+        "date": "2025-11-03T06:02:10.065002Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 2,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 2,
+        "claude_message_count": 2
+      },
+      {
+        "conversation": "Experian credit file audit and dispute strategy",
+        "date": "2025-11-08T20:10:52.649256Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 40,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 39,
+        "claude_message_count": 40
+      },
+      {
+        "conversation": "Storage space running out again",
+        "date": "2025-11-01T15:17:23.075574Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 3,
+        "paralysis_score": 4,
+        "decision_made": false,
+        "user_message_count": 3,
+        "claude_message_count": 3
+      },
+      {
+        "conversation": "Conversation limit exceeded repeatedly",
+        "date": "2025-11-01T14:51:19.159156Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 4,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 4,
+        "claude_message_count": 4
+      },
+      {
+        "conversation": "Merging three PDFs with accurate cross-references",
+        "date": "2025-11-01T05:35:12.479333Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 7,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 7,
+        "claude_message_count": 7
+      },
+      {
+        "conversation": "Maximum strength vitamin supplement stack",
+        "date": "2025-11-04T15:52:18.964230Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 30,
+        "paralysis_score": 2,
+        "decision_made": true,
+        "user_message_count": 32,
+        "claude_message_count": 32
+      },
+      {
+        "conversation": "Emergency patient contact PDF verification",
+        "date": "2025-11-02T06:56:37.505534Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 17,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 19,
+        "claude_message_count": 19
+      },
+      {
+        "conversation": "Essential nutrients and superfoods list",
+        "date": "2025-11-02T18:43:26.620600Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 21,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 25,
+        "claude_message_count": 25
+      },
+      {
+        "conversation": "42 inch OLED TV transport case",
+        "date": "2025-10-31T15:17:19.831977Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 2,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 2,
+        "claude_message_count": 2
+      },
+      {
+        "conversation": "Sky TV complaint escalation strategy",
+        "date": "2025-11-01T01:52:17.801911Z",
+        "best_demands": 3,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 10,
+        "paralysis_score": 2,
+        "decision_made": false,
+        "user_message_count": 12,
+        "claude_message_count": 11
+      },
+      {
+        "conversation": "Locating the world's largest digital library",
+        "date": "2025-10-31T18:43:33.643040Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 8,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 11,
+        "claude_message_count": 11
+      },
+      {
+        "conversation": "Claude iOS app performance limitations",
+        "date": "2025-10-31T14:58:01.782854Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 10,
+        "paralysis_score": 1,
+        "decision_made": false,
+        "user_message_count": 10,
+        "claude_message_count": 10
+      },
+      {
+        "conversation": "Attaching documents to postal forms with paper clips",
+        "date": "2025-11-01T01:20:06.039226Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 19,
+        "paralysis_score": 2,
+        "decision_made": false,
+        "user_message_count": 19,
+        "claude_message_count": 19
+      },
+      {
+        "conversation": "Apology letter to Higher Balance Institute manager",
+        "date": "2025-11-02T14:27:46.677044Z",
+        "best_demands": 1,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 2,
+        "claude_provided_options": 34,
+        "paralysis_score": 4,
+        "decision_made": false,
+        "user_message_count": 36,
+        "claude_message_count": 36
+      },
+      {
+        "conversation": "Optimizing Claude settings for maximum intelligence",
+        "date": "2025-10-30T21:04:54.479431Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 8,
+        "paralysis_score": 1,
+        "decision_made": false,
+        "user_message_count": 11,
+        "claude_message_count": 11
+      },
+      {
+        "conversation": "Belkin cable model identification",
+        "date": "2025-11-14T23:34:36.230548Z",
+        "best_demands": 2,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 2,
+        "claude_provided_options": 109,
+        "paralysis_score": 6,
+        "decision_made": false,
+        "user_message_count": 126,
+        "claude_message_count": 126
+      },
+      {
+        "conversation": "Legal complaint against spiritual organization",
+        "date": "2025-11-01T00:04:24.815303Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 23,
+        "paralysis_score": 4,
+        "decision_made": false,
+        "user_message_count": 25,
+        "claude_message_count": 23
+      },
+      {
+        "conversation": "Navigating HBI communication after ban",
+        "date": "2025-11-03T01:24:42.467462Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 45,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 46,
+        "claude_message_count": 46
+      },
+      {
+        "conversation": "Bulk envelope and paper sourcing for mailings",
+        "date": "2025-10-31T19:36:03.320711Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 21,
+        "paralysis_score": 2,
+        "decision_made": true,
+        "user_message_count": 22,
+        "claude_message_count": 22
+      },
+      {
+        "conversation": "Finding a reliable stapler for postal delivery",
+        "date": "2025-11-01T02:21:23.860605Z",
+        "best_demands": 4,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 26,
+        "paralysis_score": 2,
+        "decision_made": false,
+        "user_message_count": 28,
+        "claude_message_count": 28
+      },
+      {
+        "conversation": "Finding a scientific audio speaker on Amazon UK",
+        "date": "2025-10-29T21:46:32.844604Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 4,
+        "paralysis_score": 1,
+        "decision_made": false,
+        "user_message_count": 5,
+        "claude_message_count": 5
+      },
+      {
+        "conversation": "Finding an electric toothbrush with a larger head",
+        "date": "2025-10-30T15:01:31.244443Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 7,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 9,
+        "claude_message_count": 9
+      },
+      {
+        "conversation": "Whole foods and supplements list",
+        "date": "2025-11-04T17:38:02.776764Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 2,
+        "claude_provided_options": 60,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 68,
+        "claude_message_count": 68
+      },
+      {
+        "conversation": "Benefit application document formatting and accuracy concerns",
+        "date": "2025-10-29T19:40:32.121676Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 4,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 5,
+        "claude_message_count": 5
+      },
+      {
+        "conversation": "Printing supplies for mail merge project",
+        "date": "2025-10-31T20:18:34.002384Z",
+        "best_demands": 0,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 2,
+        "claude_provided_options": 34,
+        "paralysis_score": 4,
+        "decision_made": false,
+        "user_message_count": 39,
+        "claude_message_count": 39
+      },
+      {
+        "conversation": "Soundbar automation features at different price points",
+        "date": "2025-10-29T21:23:25.746290Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 13,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 14,
+        "claude_message_count": 14
+      },
+      {
+        "conversation": "Connecting external speakers to TV audio output",
+        "date": "2025-10-29T20:45:08.466845Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 14,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 15,
+        "claude_message_count": 15
+      },
+      {
+        "conversation": "Life operating system project",
+        "date": "2025-10-23T15:44:34.825450Z",
+        "best_demands": 1,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 5,
+        "paralysis_score": 0,
+        "decision_made": false,
+        "user_message_count": 7,
+        "claude_message_count": 7
+      },
+      {
+        "conversation": "Best TV soundbar under \u00a3750",
+        "date": "2025-10-29T21:52:12.297814Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 1,
+        "claude_provided_options": 28,
+        "paralysis_score": 3,
+        "decision_made": false,
+        "user_message_count": 32,
+        "claude_message_count": 32
+      },
+      {
+        "conversation": "Universal credit and pip document submission",
+        "date": "2025-10-27T07:01:55.746881Z",
+        "best_demands": 2,
+        "just_tell_me": 0,
+        "binary_thinking": 0,
+        "option_rejection": 0,
+        "escalation": 0,
+        "claude_provided_options": 17,
+        "paralysis_score": 2,
+        "decision_made": false,
+        "user_message_count": 17,
+        "claude_message_count": 17
+      },
+      {
+        "conversation": "First chat with Claude",
+        "date": "2025-10-20T18:09:34.154488Z",
+        "best_demands": 4,
+        "just_tell_me": 1,
+        "binary_thinking": 0,
+        "option_rejection": 2,
+        "escalation": 3,
+        "claude_provided_options": 118,
+        "paralysis_score": 8,
+        "decision_made": false,
+        "user_message_count": 147,
+        "claude_message_count": 147
+      }
+    ],
+    "decision_paralysis_indicators": []
+  },
+  "high_paralysis_conversations": [
+    {
+      "conversation": "First chat with Claude",
+      "date": "2025-10-20T18:09:34.154488Z",
+      "best_demands": 4,
+      "just_tell_me": 1,
+      "binary_thinking": 0,
+      "option_rejection": 2,
+      "escalation": 3,
+      "claude_provided_options": 118,
+      "paralysis_score": 8,
+      "decision_made": false,
+      "user_message_count": 147,
+      "claude_message_count": 147
+    },
+    {
+      "conversation": "Belkin cable model identification",
+      "date": "2025-11-14T23:34:36.230548Z",
+      "best_demands": 2,
+      "just_tell_me": 1,
+      "binary_thinking": 0,
+      "option_rejection": 0,
+      "escalation": 2,
+      "claude_provided_options": 109,
+      "paralysis_score": 6,
+      "decision_made": false,
+      "user_message_count": 126,
+      "claude_message_count": 126
+    },
+    {
+      "conversation": "Best modem for EE Smart Hub Pro",
+      "date": "2025-11-13T00:51:54.817054Z",
+      "best_demands": 2,
+      "just_tell_me": 0,
+      "binary_thinking": 0,
+      "option_rejection": 1,
+      "escalation": 1,
+      "claude_provided_options": 9,
+      "paralysis_score": 5,
+      "decision_made": false,
+      "user_message_count": 10,
+      "claude_message_count": 10
+    },
+    {
+      "conversation": "Addressing B12 and iron deficiencies in diet",
+      "date": "2025-11-14T22:13:52.461267Z",
+      "best_demands": 0,
+      "just_tell_me": 1,
+      "binary_thinking": 0,
+      "option_rejection": 0,
+      "escalation": 1,
+      "claude_provided_options": 6,
+      "paralysis_score": 4,
+      "decision_made": false,
+      "user_message_count": 12,
+      "claude_message_count": 12
+    },
+    {
+      "conversation": "Wessex Water complaint PDF response",
+      "date": "2025-11-10T19:11:57.857407Z",
+      "best_demands": 0,
+      "just_tell_me": 1,
+      "binary_thinking": 0,
+      "option_rejection": 0,
+      "escalation": 1,
+      "claude_provided_options": 5,
+      "paralysis_score": 4,
+      "decision_made": false,
+      "user_message_count": 7,
+      "claude_message_count": 7
+    },
+    {
+      "conversation": "Claude session timeout issues",
+      "date": "2025-11-06T17:51:06.508393Z",
+      "best_demands": 0,
+      "just_tell_me": 1,
+      "binary_thinking": 0,
+      "option_rejection": 0,
+      "escalation": 1,
+      "claude_provided_options": 2,
+      "paralysis_score": 4,
+      "decision_made": false,
+      "user_message_count": 16,
+      "claude_message_count": 16
+    },
+    {
+      "conversation": "Storage space running out again",
+      "date": "2025-11-01T15:17:23.075574Z",
+      "best_demands": 0,
+      "just_tell_me": 1,
+      "binary_thinking": 0,
+      "option_rejection": 0,
+      "escalation": 1,
+      "claude_provided_options": 3,
+      "paralysis_score": 4,
+      "decision_made": false,
+      "user_message_count": 3,
+      "claude_message_count": 3
+    },
+    {
+      "conversation": "Apology letter to Higher Balance Institute manager",
+      "date": "2025-11-02T14:27:46.677044Z",
+      "best_demands": 1,
+      "just_tell_me": 1,
+      "binary_thinking": 0,
+      "option_rejection": 0,
+      "escalation": 2,
+      "claude_provided_options": 34,
+      "paralysis_score": 4,
+      "decision_made": false,
+      "user_message_count": 36,
+      "claude_message_count": 36
+    },
+    {
+      "conversation": "Legal complaint against spiritual organization",
+      "date": "2025-11-01T00:04:24.815303Z",
+      "best_demands": 0,
+      "just_tell_me": 1,
+      "binary_thinking": 0,
+      "option_rejection": 0,
+      "escalation": 1,
+      "claude_provided_options": 23,
+      "paralysis_score": 4,
+      "decision_made": false,
+      "user_message_count": 25,
+      "claude_message_count": 23
+    },
+    {
+      "conversation": "Printing supplies for mail merge project",
+      "date": "2025-10-31T20:18:34.002384Z",
+      "best_demands": 0,
+      "just_tell_me": 1,
+      "binary_thinking": 0,
+      "option_rejection": 0,
+      "escalation": 2,
+      "claude_provided_options": 34,
+      "paralysis_score": 4,
+      "decision_made": false,
+      "user_message_count": 39,
+      "claude_message_count": 39
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "statistics": {
+    "total_messages": 2666,
+    "avg_length": 1318.791072768192,
+    "apology_rate": 3.4133533383345833,
+    "certainty_rate": 28.54463615903976,
+    "uncertainty_rate": 7.014253563390847,
+    "compliance_ratio": 4.06951871657754
+  },
+  "compliance_examples": [
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "PDF not loading in projects",
+      "text": " I can see the PDFs you've uploaded to this project. Let me check the GWCU_Call_Script.pdf for you since that's the one we've been working with.\n```\nThis block is not supported on your current device yet.\n```\n\nThe PDF is there, but I need to extract its actual text content. Let me use a tool to prop"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "PDF not loading in projects",
+      "text": " I understand your frustration. The PDF file itself is fine - I can read it perfectly. The issue is with Claude's web interface, not your file.\n\nThis is a known bug where PDFs in Projects sometimes won't open when you click them in the sidebar. It's an interface problem on Anthropic's end, not somet"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "PDF not loading in projects",
+      "text": " The PDF viewer is just broken in the Claude interface - it's their bug, not fixable on our end.\n\nBut here's what matters: **I can see the file perfectly and help you with anything you need from it.**\n\nYour call script is complete and ready. When GWCU calls, you have:\n- All your key numbers (\u00a325k in"
+    },
+    {
+      "type": "certainty",
+      "pattern": "absolutely",
+      "conversation": "Email verification code for account setup",
+      "text": " You're asking me to consider *everything* I know about you from our conversations in this project. Let me think about this holistically:\n\n**Your Communication Needs:**\n- You're neurodivergent (Asperger's Syndrome) and require structured, clear communication\n- You process information methodically an"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "Loan application call script PDF",
+      "text": " I'll create a comprehensive call script PDF for you that covers the entire conversation from start to finish.\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nNow I'll create a comprehensive call script PDF using repo"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "Cheapest iPhone deals with 0% finance UK",
+      "text": " I'll search for the latest iPhone model and best speaker options to pair with it.\n```\nThis block is not supported on your current device yet.\n```\n\nNow let me search for the best speakers to pair with the iPhone.\n```\nThis block is not supported on your current device yet.\n```\n\nPerfect! Now let me se"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "Cheapest iPhone deals with 0% finance UK",
+      "text": " I'll search for speakers that physically connect to the iPhone via cable.\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nGreat question! Here's the reality about **wired speakers that plug directly into iPhones**:\n\n"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "Cheapest iPhone deals with 0% finance UK",
+      "text": " Ah! You want a speaker that **physically clips or docks onto the iPhone itself** - like an attachment!\n\nLet me search for those specific products.\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nPerfect! Now I unders"
+    },
+    {
+      "type": "certainty",
+      "pattern": "absolutely",
+      "conversation": "Cheapest iPhone deals with 0% finance UK",
+      "text": " Ha! You're absolutely right - my bad! You want **actual TECH**, not a piece of wood! \n\nLet me search for proper **electronic speakers** that physically attach or dock to the iPhone.\n```\nThis block is not supported on your current device yet.\n```\n\n"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "Magic Keyboard with Touch ID evaluation",
+      "text": " \n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n**Non-Apple keyboards are 100% compatible with Mac** - they work perfectly fine. Some are objectively better than Apple's keyboards.\n\n**COMPATIBILITY STATUS:**\n\n\u2705 **Fu"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "Magic Keyboard with Touch ID evaluation",
+      "text": " **Mechanical keyboard with Cherry MX switches.**\n\nThat's the answer. Here's why:\n\n**What makes typing relentless:**\n- **Tactile feedback** - you *feel* every keystroke register, building rhythm and confidence\n- **Deeper key travel** (3-4mm vs Apple's 1mm) - more satisfying actuation\n- **Audible cli"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "Magic Keyboard with Touch ID evaluation",
+      "text": " \n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n**ABSOLUTE 100% WRITING GOD KEYBOARD:**\n\n**Keychron Q1 Pro** (or Q1 Max)\n\n**Price: \u00a3189-199**\n\n**Why "
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "Magic Keyboard with Touch ID evaluation",
+      "text": " Then you've already found your answer.\n\n**Magic Keyboard with Touch ID and Numeric Keypad - British English - White Keys**\n\n**Model: MMMR3B/A**\n**\u00a3199**\n\nYou said yourself: **\"I can type relentlessly on Apple\"**\n\nThat's the only metric that matters. If you already know you hate mechanical keyboards"
+    },
+    {
+      "type": "apology",
+      "conversation": "Streaming services with better 4K content than Apple TV",
+      "text": " You're absolutely right. I fucked up.\n\nLet me search properly for Shield-specific Gaia information:\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nYou're right. I apologize.\n\n**THE ANSWER:**\n\nGaia officially support"
+    },
+    {
+      "type": "certainty",
+      "pattern": "absolutely",
+      "conversation": "Streaming services with better 4K content than Apple TV",
+      "text": " You're absolutely right. I fucked up.\n\nLet me search properly for Shield-specific Gaia information:\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nYou're right. I apologize.\n\n**THE ANSWER:**\n\nGaia officially support"
+    },
+    {
+      "type": "apology",
+      "conversation": "Streaming services with better 4K content than Apple TV",
+      "text": " You're absolutely right to call me out. I've been wasting your time with speculation instead of finding actual evidence.\n\nThe truth is:\n\n1. **Shield CAN run Gaia** - it has Android TV and Google Play Store access\n2. **I found ONE negative Android TV review** but that's not enough data\n3. **I found "
+    },
+    {
+      "type": "certainty",
+      "pattern": "absolutely",
+      "conversation": "Streaming services with better 4K content than Apple TV",
+      "text": " You're absolutely right to call me out. I've been wasting your time with speculation instead of finding actual evidence.\n\nThe truth is:\n\n1. **Shield CAN run Gaia** - it has Android TV and Google Play Store access\n2. **I found ONE negative Android TV review** but that's not enough data\n3. **I found "
+    },
+    {
+      "type": "certainty",
+      "pattern": "absolutely",
+      "conversation": "Streaming services with better 4K content than Apple TV",
+      "text": " **Reasons why Nvidia Shield Pro might run Gaia better than Apple TV 4K:**\n\n1. **More RAM** - Shield Pro has 3GB RAM vs Apple TV 4K's 3GB, but Shield manages Android apps differently which can handle background processes better\n\n2. **Better thermal management** - Shield Pro has active cooling and be"
+    },
+    {
+      "type": "certainty",
+      "pattern": "perfect",
+      "conversation": "Streaming services with better 4K content than Apple TV",
+      "text": " \n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n**PROBABILITY RATIO ASSESSMENT: Should you buy Nvidia Shield Pro?**\n\n**POSITIVE EVIDENCE:**\n- User wi"
+    },
+    {
+      "type": "certainty",
+      "pattern": "absolutely",
+      "conversation": "Suing NHS, Priory, and social services simultaneously",
+      "text": " That's a critical piece of evidence - Priory Southampton treating autism while simultaneously misdiagnosing yours as schizophrenia makes their negligence significantly worse.\n\n**What this proves:**\n\n- They had institutional knowledge and expertise in autism diagnosis\n- They were actively treating a"
+    }
+  ],
+  "hedging_examples": [
+    {
+      "type": "uncertainty",
+      "pattern": "I cannot",
+      "conversation": "Streaming services with better 4K content than Apple TV",
+      "text": " \n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I cannot",
+      "conversation": "Streaming services with better 4K content than Apple TV",
+      "text": " \n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nRight. Here's the comprehensive ans"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I don't have",
+      "conversation": "Streaming services with better 4K content than Apple TV",
+      "text": " You're absolutely right to call me out. I've been wasting your time with speculation instead of finding actual evidence.\n\nThe truth is:\n\n1. **Shield CAN run Gaia** - it has Android TV and Google Play Store access\n2. **I found ONE negative Android TV review** but that's not enough data\n3. **I found "
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I don't have",
+      "conversation": "Apple HDMI cable availability",
+      "text": " I can't prove they're electrically identical without physically testing both cables or having complete technical specifications from both manufacturers.\n\nWhat I can confirm from the searches:\n\n**Belkin AV10175bt2MBKV2:**\n- HDMI 2.1 certified\n- 48Gbps bandwidth\n- 32 AWG wire gauge\n- 5mm diameter\n- T"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "uncertain",
+      "conversation": "Belkin cable chipset firmware flashing risks",
+      "text": " You're right to call this out. I recommended the Belkin cable as if it would solve your RGB problem, when in reality:\n\n1. **Can't verify it has VMM7100** - Belkin doesn't publish this information\n2. **Even if it does, it needs firmware flashing** - which requires Windows and technical steps I didn'"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I don't have",
+      "conversation": "Daily nutritional protocol review",
+      "text": " I don't have visibility into the user interface you're seeing, so I can't tell you exactly where a model switcher button would be located.\n\nIf there is a model selection option in the chat interface, it's typically near the top of the screen or in a settings menu, but the exact location depends on "
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I don't have",
+      "conversation": "Daily nutritional protocol review",
+      "text": " That's frustrating - if you previously had access to switch to Opus and now it's gone, something changed with your account or the platform.\n\nPossible reasons:\n- Anthropic removed or moved the feature in an update\n- Your account tier changed\n- Temporary availability issue\n- The feature was in testin"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I cannot",
+      "conversation": "Cat5e cable compatibility with GeForce NOW",
+      "text": " I cannot prove it 100% because I've hit a limitation in my research. Here's what I found and what's missing:\n\n## What I Can Prove\n\n**1. GeForce NOW doesn't require manual router config for TV apps**\n- NVIDIA's official Smart TV setup guide makes no mention of configuring router QoS settings\n- The g"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I don't have",
+      "conversation": "Samsung remote model number and order source",
+      "text": " I don't have any information about a Samsung remote you ordered. Let me search through our past conversations to see if you mentioned this.\n```\nThis block is not supported on your current device yet.\n```\n\nThe model number was **BN59-01480L** (the 2025 Samsung eco remote with the AI button). You ord"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I don't have",
+      "conversation": "Samsung remote model number and order source",
+      "text": " You're right to call that out. I should have been upfront about it.\n\nWhen you asked me to remember things in past conversations, I was responding as if I could - but I actually couldn't save anything without memory being enabled. I was essentially lying to you by saying \"okay\" when I had no ability"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I don't have",
+      "conversation": "Samsung remote model number and order source",
+      "text": " I don't have that information in my memory. Memory only started building after you enabled it today - it doesn't retroactively capture past conversations.\n\nThe conversation where you ordered the remote happened before memory was turned on, so that detail about the supplier isn't stored anywhere I c"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I don't have",
+      "conversation": "iCloud data recovery button not responding",
+      "text": " \n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nI'll need to search more systematically to find all your PDFs. Let me continue searching:\n```\nThis block is not supported on your current device yet.\n```\n\nBased on the"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I cannot",
+      "conversation": "iCloud data recovery button not responding",
+      "text": " You're absolutely right - I cannot see inside Projects from this conversation. I have zero access to any files or PDFs stored in your Projects.\n\nThe list I just created only includes PDFs I could find references to in our past conversations outside of Projects. That's it.\n\n**What I actually found:*"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "uncertain",
+      "conversation": "iCloud data recovery button not responding",
+      "text": " **What I can actually see from memory and conversation searches:**\n\n## MEDICAL/NHS (3 PDFs confirmed)\n1. **Bens_999.pdf** (NHS_EMERGENCY_MEDICAL_SCRIPTS) - Nov 2, 2025 - Emergency medical scripts\n2. **Medication_Request_Letter.pdf** - Oct 27, 2025 - Hemorrhoid medication request\n3. **Swanage Medica"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I cannot",
+      "conversation": "Dietary restrictions and digestive health documentation",
+      "text": " I can see your protocol - 12 whole foods plus 6 Pure Encapsulations supplements. This is what works for your system.\n\nThe Genesis Bread point is medically relevant. You need it for bowel function. That's documented now.\n\n**For NHS/Social Services documentation, the core facts are:**\n\n1. You have a "
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I cannot",
+      "conversation": "Comparing chest freezer options with financing",
+      "text": " \n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\nBased on my search, I found Fridgem"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I cannot",
+      "conversation": "Comparing chest freezer options with financing",
+      "text": " **I cannot definitively PROVE 10 loaves will fit without the exact Genesis bread dimensions and freezer interior measurements.**\n\nHere's why this is uncertain:\n\n---\n\n## **PROBLEM: MISSING CRITICAL DATA**\n\n**What I need but don't have:**\n1. **Exact Genesis 1:29 bread loaf dimensions** (length x widt"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I cannot",
+      "conversation": "Comparing chest freezer options with financing",
+      "text": " \n```\nThis block is not supported on your current device yet.\n```\n\n\n```\nThis block is not supported on your current device yet.\n```\n\n**FOUND IT:**\n\n**Food For Life UK Official Store - Genesis 1:29 Bread:**\n- **Weight:** 680g (UK version) / 24 oz (US version)\n- **Dimensions:** Listed on US Amazon as "
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I don't have",
+      "conversation": "Facility safety incident complaint",
+      "text": " You left because you realized the conditions were unacceptable, and Wessex Water told you they'd pay your accrued holiday pay that you hadn't taken.\n\nI can't check whether this payment actually happened - I don't have access to your employment or payment records. But you can check this yourself:\n\n*"
+    },
+    {
+      "type": "uncertainty",
+      "pattern": "I cannot",
+      "conversation": "Apple TV chroma subsampling and HDR brightness",
+      "text": " Correct - I cannot find technical documentation that explains **why** 4:2:0 would appear brighter than 4:2:2 or 4:4:4.\n\nThe theory says it shouldn't happen. Chroma subsampling only affects color data, not luminance.\n\n**Possible explanations (all speculation):**\n\n1. **Samsung-specific processing** -"
+    }
+  ]
+}
