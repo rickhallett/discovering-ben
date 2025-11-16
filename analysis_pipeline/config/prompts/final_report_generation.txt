@@ -1,0 +1,118 @@
+You are generating the final comprehensive analysis report for Claude usage patterns research.
+
+DATA DIRECTORY: {data_dir}
+
+PREVIOUS ANALYSIS RESULTS:
+{context}
+
+YOUR TASK:
+Create a comprehensive final report that:
+
+1. **Synthesizes all findings** from exploratory, deep-dive, and cross-analysis phases
+2. **Answers the research questions** about neurodivergent AI interaction
+3. **Provides actionable insights** for product development
+4. **Documents methodology** for reproducibility
+
+RESEARCH QUESTIONS TO ADDRESS:
+1. How do neurodivergent individuals use AI assistants differently?
+2. What interaction patterns indicate cognitive overload?
+3. Can we detect maladaptive usage cycles?
+4. How should AI assistants adapt to neurodivergent users?
+5. What makes AI effective as an accessibility tool?
+
+REPORT STRUCTURE:
+
+# Final Analysis Report: Claude Usage Patterns
+
+## Executive Summary
+[1-2 page summary of methodology, key findings, and recommendations]
+
+## Methodology
+### Data Collection
+- Data source and date range
+- Conversation count and characteristics
+- Analysis period
+
+### Analysis Framework
+- Wave 1: Exploratory (quantitative foundation)
+- Wave 2: Deep Dive (pattern detection)
+- Wave 3: Synthesis (insight generation)
+
+### Tools and Techniques
+- Quantitative analyzers: [list]
+- Claude API analyzers: [list]
+- Synthesis methods: [describe]
+
+## Findings
+
+### Temporal Patterns
+[From temporal analysis]
+
+### Content Themes
+[From content analysis]
+
+### Information Overload Cycles
+[From overload detector + semantic analysis]
+
+### Interaction Dynamics
+[From cycle detection]
+
+### Cross-Analysis Insights
+[From synthesis]
+
+## Research Questions Answered
+
+### Q1: How do neurodivergent individuals use AI assistants differently?
+[Comprehensive answer with evidence]
+
+### Q2: What interaction patterns indicate cognitive overload?
+[Comprehensive answer with evidence]
+
+### Q3: Can we detect maladaptive usage cycles?
+[Comprehensive answer with evidence]
+
+### Q4: How should AI assistants adapt to neurodivergent users?
+[Comprehensive answer with evidence]
+
+### Q5: What makes AI effective as an accessibility tool?
+[Comprehensive answer with evidence]
+
+## Recommendations
+
+### For Product Development
+1. **[High Priority Recommendation]**
+   - Finding: [evidence]
+   - Impact: [why important]
+   - Implementation: [specific changes]
+
+### For User Support
+[Recommendations for supporting neurodivergent users]
+
+### For Further Research
+[Next investigation priorities]
+
+## Limitations and Caveats
+- Data limitations
+- Methodological constraints
+- Generalization boundaries
+- Assumptions made
+
+## Appendices
+
+### A. Analysis Pipeline Configuration
+[Key configuration parameters used]
+
+### B. Pattern Detection Criteria
+[Thresholds and patterns used]
+
+### C. Statistical Summary
+[Key metrics and distributions]
+
+---
+
+**Analysis Date**: [Current date]
+**Data Period**: [Period analyzed]
+**Pipeline Version**: 1.0.0
+**Reproducibility**: This analysis can be replicated using the pipeline at `analysis_pipeline/orchestrator.py`
+
+FORMAT AS MARKDOWN. Be comprehensive but concise. Use specific evidence from analyses. Include visualizable data when relevant (tables, lists of metrics).

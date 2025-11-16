@@ -1,0 +1,118 @@
+# Analysis Pipeline Configuration
+# ================================
+# Defines the macro-level structure: waves of analysis and their sequencing
+
+pipeline:
+  # Data directory containing conversations.json, memories.json, etc.
+  data_dir: "."
+
+  # Output directory for all results
+  output_dir: "./pipeline_results"
+
+  # Enable caching of results (skip re-running if result exists)
+  use_cache: true
+
+  # Number of parallel workers for parallel waves
+  parallel_workers: 4
+
+# Analysis waves (macro level)
+# Waves run sequentially, but analyzers within a wave can run in parallel
+waves:
+  # Wave 1: Exploratory - Quantitative foundation
+  - name: "exploratory"
+    parallel: true
+    requires: []
+    analyzers:
+      - temporal_analysis
+      - content_analysis
+      - project_analysis
+
+  # Wave 2: Deep Dive - Pattern detection with Claude
+  - name: "deep_dive"
+    parallel: true
+    requires: ["exploratory"]
+    analyzers:
+      - information_overload_detector
+      - semantic_pattern_analyzer
+      - interaction_cycle_detector
+
+  # Wave 3: Synthesis - Combine insights with Claude
+  - name: "synthesis"
+    parallel: false  # Sequential for coherent synthesis
+    requires: ["exploratory", "deep_dive"]
+    analyzers:
+      - cross_analysis_synthesizer
+      - final_report_generator
+
+# Analyzer definitions (meso level)
+# Each analyzer specifies how to perform its analysis
+analyzers:
+  # === Exploratory Wave ===
+
+  temporal_analysis:
+    type: quantitative
+    script: analyzers/temporal_analyzer.py
+    params:
+      analysis_type: temporal
+      include_duration: true
+      include_gaps: true
+
+  content_analysis:
+    type: quantitative
+    script: analyzers/content_analyzer.py
+    params:
+      analysis_type: content
+      extract_keywords: true
+      categorize_topics: true
+
+  project_analysis:
+    type: quantitative
+    script: analyzers/project_analyzer.py
+    params:
+      analysis_type: projects
+      include_memory: true
+
+  # === Deep Dive Wave ===
+
+  information_overload_detector:
+    type: quantitative
+    script: cycle_1_information_overload_detector.py
+    params:
+      # Pattern detection thresholds
+      min_exhaustive_demands: 1
+      min_response_length: 1500
+
+  semantic_pattern_analyzer:
+    type: claude_api
+    model: claude-haiku-4-20250514
+    prompt_template: config/prompts/semantic_pattern_detection.txt
+    batch_size: 20  # Analyze first 20 conversations
+    params:
+      focus_areas:
+        - implicit_overwhelm
+        - satisfaction_paradox
+        - filter_failure
+
+  interaction_cycle_detector:
+    type: claude_api
+    model: claude-haiku-4-20250514
+    prompt_template: config/prompts/interaction_cycle_detection.txt
+    batch_size: 30
+
+  # === Synthesis Wave ===
+
+  cross_analysis_synthesizer:
+    type: claude_cli
+    model: claude-sonnet-4-5-20250929
+    prompt_template: config/prompts/cross_analysis_synthesis.txt
+    params:
+      synthesis_type: patterns
+
+  final_report_generator:
+    type: claude_cli
+    model: claude-sonnet-4-5-20250929
+    prompt_template: config/prompts/final_report_generation.txt
+    params:
+      report_format: markdown
+      include_recommendations: true
+      include_methodology: true

@@ -1,0 +1,73 @@
+You are analyzing conversations between a neurodivergent user (autism/Asperger's) and Claude AI to detect subtle information overload patterns.
+
+USER PROFILE:
+- Theory of mind deficits (cannot intuitively model AI limitations)
+- Executive dysfunction (difficulty filtering relevant information)
+- Uncertainty intolerance (needs to feel certain)
+- Rigid thinking patterns
+
+INFORMATION OVERLOAD CYCLE HYPOTHESIS:
+1. User asks question seeking certainty
+2. Claude provides detailed answer
+3. User cannot filter what's relevant (executive dysfunction)
+4. Feels overwhelmed but NOT satisfied (still uncertain)
+5. Asks for MORE information to achieve certainty
+6. Claude provides even MORE detail (compliance)
+7. Cognitive overload increases → cycle repeats
+
+YOUR TASK:
+Analyze this conversation excerpt and detect:
+
+1. **Implicit Overwhelm Signals** - User is overloaded without explicitly saying so:
+   - Abrupt topic changes after receiving detailed responses
+   - Frustration signals following comprehensive answers
+   - Simplified/binary questions after complex responses
+   - "Just tell me X" after detailed explanations
+
+2. **Satisfaction Paradox** - More information leads to LESS satisfaction:
+   - Still uncertain after comprehensive answers
+   - Re-asks same question in different ways
+   - Escalates demands after receiving thorough responses
+
+3. **Filter Failure** - Cannot extract relevant information:
+   - Focuses on tangential details
+   - Misses key information in responses
+   - Gets stuck on unimportant points
+
+4. **Claude Over-Provisioning** - Ways Claude amplifies the cycle:
+   - Providing more detail than requested
+   - Multiple options when one was needed
+   - Comprehensive lists when simple answer would suffice
+   - Not checking if user can process the information
+
+5. **Cycle Progression** - How conversation escalates:
+   - Information demands increase over turns
+   - User frustration rises
+   - Response lengths grow
+   - Cognitive load indicators increase
+
+CONVERSATION TO ANALYZE:
+{conversation}
+
+RESPOND IN JSON FORMAT:
+{{
+  "implicit_overwhelm_detected": true/false,
+  "overwhelm_signals": ["signal 1", "signal 2"],
+  "satisfaction_paradox": true/false,
+  "paradox_evidence": "brief description",
+  "filter_failure": true/false,
+  "filter_failure_examples": ["example 1"],
+  "claude_over_provisioning": true/false,
+  "over_provisioning_examples": ["example 1"],
+  "cycle_progression": {{
+    "detected": true/false,
+    "escalation_pattern": "description of how it escalates"
+  }},
+  "overall_assessment": {{
+    "overload_severity": "none/mild/moderate/severe",
+    "confidence": "low/medium/high",
+    "key_evidence": "Most compelling evidence for overload"
+  }}
+}}
+
+Be specific and cite examples from the conversation. Focus on subtle cues, not just explicit complaints.

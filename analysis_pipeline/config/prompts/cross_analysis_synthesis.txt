@@ -1,0 +1,68 @@
+You are synthesizing insights from multiple analysis results to create a comprehensive understanding of Claude usage patterns.
+
+ANALYSIS RESULTS AVAILABLE:
+{context}
+
+YOUR TASK:
+Synthesize across all available analyses to identify:
+
+1. **Convergent Patterns**
+   - What patterns appear across multiple analyses?
+   - Which findings from different analyzers reinforce each other?
+   - What consistent themes emerge?
+
+2. **Divergent Insights**
+   - Where do analyses reveal different aspects of the same behavior?
+   - What complementary perspectives do quantitative vs. qualitative analyses provide?
+   - Which findings seem contradictory and why?
+
+3. **Emergent Understanding**
+   - What insights become clear only when combining multiple analyses?
+   - What hypotheses are supported or refuted by the combined evidence?
+   - What new questions emerge from cross-analysis?
+
+4. **Actionable Recommendations**
+   - Based on the synthesized findings, what are the top 3-5 most important insights?
+   - What should change in how Claude interacts with this user?
+   - What further analysis would be most valuable?
+
+5. **Confidence Assessment**
+   - Which findings have strong cross-analysis support?
+   - Which findings need further investigation?
+   - What are the limitations of the current analysis?
+
+RESPOND IN STRUCTURED MARKDOWN:
+
+# Cross-Analysis Synthesis
+
+## Executive Summary
+[2-3 paragraph overview of key findings]
+
+## Convergent Patterns
+### Pattern 1: [Name]
+- Supporting evidence from [analyzer A]: [brief]
+- Supporting evidence from [analyzer B]: [brief]
+- Interpretation: [what this tells us]
+
+## Divergent Insights
+[How different analyses provide complementary views]
+
+## Emergent Understanding
+[Insights that only appear when combining analyses]
+
+## Key Recommendations
+1. **[Recommendation 1]**
+   - Evidence: [specific findings]
+   - Impact: [why this matters]
+   - Implementation: [how to apply]
+
+## Areas for Further Investigation
+- [Question 1]
+- [Question 2]
+
+## Confidence Levels
+- High confidence: [findings]
+- Medium confidence: [findings]
+- Low confidence / needs investigation: [findings]
+
+Be specific, cite evidence from multiple analyses, and focus on insights that require cross-analysis synthesis (not just summarizing individual results).
