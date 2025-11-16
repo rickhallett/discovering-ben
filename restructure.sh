@@ -195,8 +195,8 @@ echo "Updating script paths..."
 # Create path update script for detectors
 for detector in analysis/wave-1-vicious-cycles/scripts/detectors/*.py; do
     if [ -f "$detector" ]; then
-        # Update conversations.json path
-        sed -i.bak "s|'/Users/richardhallett/Documents/code/clients/project-ben/discovering-ben/conversations.json'|'../../../data/raw/conversations.json'|g" "$detector"
+        # Update conversations.json path (4 levels up from detectors/)
+        sed -i.bak "s|'/Users/richardhallett/Documents/code/clients/project-ben/discovering-ben/conversations.json'|'../../../../data/raw/conversations.json'|g" "$detector"
         # Update output paths
         sed -i.bak "s|'/Users/richardhallett/Documents/code/clients/project-ben/discovering-ben/|'../../outputs/|g" "$detector"
         rm "${detector}.bak"
@@ -208,8 +208,8 @@ for analyzer in analysis/wave-1-vicious-cycles/scripts/semantic-analyzers/*.py; 
     if [ -f "$analyzer" ]; then
         # Update findings path
         sed -i.bak "s|'/Users/richardhallett/Documents/code/clients/project-ben/discovering-ben/|'../../outputs/|g" "$analyzer"
-        # Update conversations.json path
-        sed -i.bak "s|'/Users/richardhallett/Documents/code/clients/project-ben/discovering-ben/conversations.json'|'../../../data/raw/conversations.json'|g" "$analyzer"
+        # Update conversations.json path (4 levels up from semantic-analyzers/)
+        sed -i.bak "s|'/Users/richardhallett/Documents/code/clients/project-ben/discovering-ben/conversations.json'|'../../../../data/raw/conversations.json'|g" "$analyzer"
         rm "${analyzer}.bak"
     fi
 done
